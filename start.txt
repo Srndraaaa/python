@@ -1,0 +1,3 @@
+:: run venv
+
+.\venv\Scripts\activate
