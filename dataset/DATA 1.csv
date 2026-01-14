@@ -1,0 +1,2501 @@
+Usia;Jenis_Kelamin;BMI;Tekanan Darah Sistolik;Kadar Gula Darah;Status Merokok;Aktivitas Fisik;Riwayat Penyakit
+56;Perempuan;26.3;171;130;Ya;Tinggi;Jantung
+69;Perempuan;25.8;130;216;Tidak;Rendah;Tidak Ada
+46;Laki-laki;20.9;139;243;Ya;Sedang;Tidak Ada
+32;Perempuan;24.8;176;246;Ya;Rendah;Jantung
+60;Perempuan;20.7;160;91;Tidak;Tinggi;Diabetes
+25;Perempuan;23.9;148;147;Ya;Sedang;Tidak Ada
+78;Perempuan;17.4;128;182;Ya;Sedang;Jantung
+38;Laki-laki;17.5;92;192;Ya;Sedang;Tidak Ada
+56;Perempuan;23.2;165;211;Tidak;Rendah;Hipertensi
+75;Perempuan;21.8;96;113;Ya;Sedang;Hipertensi
+36;Laki-laki;24.4;138;213;Ya;Sedang;Hipertensi
+40;Perempuan;23.5;115;166;Tidak;Sedang;Hipertensi
+28;Laki-laki;24.1;122;146;Tidak;Tinggi;Diabetes
+28;Perempuan;26.4;137;209;Ya;Rendah;Hipertensi
+41;Laki-laki;22.1;168;124;Ya;Rendah;Jantung
+70;Laki-laki;23.1;91;120;Ya;Tinggi;Tidak Ada
+53;Laki-laki;29.8;160;171;Tidak;Sedang;Jantung
+57;Laki-laki;24;121;236;Ya;Tinggi;Hipertensi
+41;Perempuan;23.3;93;230;Tidak;Tinggi;Diabetes
+20;Laki-laki;24.3;109;230;Tidak;Sedang;Hipertensi
+39;Perempuan;23.4;125;98;Ya;Sedang;Hipertensi
+70;Laki-laki;21.2;121;138;Ya;Rendah;Diabetes
+19;Laki-laki;20;117;228;Tidak;Sedang;Diabetes
+41;Laki-laki;20.9;166;149;Ya;Tinggi;Diabetes
+61;Perempuan;27.5;90;100;Ya;Tinggi;Diabetes
+47;Laki-laki;21.5;149;181;Tidak;Sedang;Diabetes
+55;Perempuan;23.4;145;115;Ya;Rendah;Diabetes
+19;Perempuan;26.8;124;166;Tidak;Tinggi;Tidak Ada
+77;Perempuan;22.9;119;121;Ya;Sedang;Hipertensi
+38;Perempuan;26.5;143;207;Tidak;Rendah;Hipertensi
+50;Perempuan;17.8;125;143;Tidak;Rendah;Diabetes
+29;Perempuan;23.5;144;110;Ya;Tinggi;Jantung
+75;Perempuan;24.3;178;146;Tidak;Tinggi;Diabetes
+39;Perempuan;24.1;169;200;Tidak;Rendah;Tidak Ada
+78;Perempuan;17.4;147;183;Ya;Rendah;Jantung
+61;Laki-laki;28.8;172;121;Ya;Rendah;Tidak Ada
+42;Laki-laki;20.6;154;231;Ya;Sedang;Jantung
+66;Laki-laki;25.3;158;246;Tidak;Tinggi;Jantung
+44;Laki-laki;24;140;225;Tidak;Rendah;Diabetes
+76;Laki-laki;28;111;156;Tidak;Tinggi;Tidak Ada
+59;Perempuan;32.7;177;178;Ya;Tinggi;Jantung
+45;Perempuan;18.8;142;210;Tidak;Tinggi;Tidak Ada
+77;Perempuan;21.4;125;138;Tidak;Rendah;Diabetes
+33;Perempuan;24.8;157;189;Ya;Sedang;Diabetes
+32;Perempuan;19.6;125;136;Tidak;Rendah;Diabetes
+79;Perempuan;27.1;141;130;Ya;Tinggi;Diabetes
+79;Perempuan;27.4;142;140;Ya;Rendah;Hipertensi
+64;Laki-laki;26.2;171;221;Ya;Rendah;Jantung
+79;Laki-laki;24.9;139;220;Tidak;Tinggi;Hipertensi
+68;Laki-laki;29.5;169;99;Tidak;Tinggi;Diabetes
+61;Laki-laki;19.4;130;215;Tidak;Rendah;Jantung
+72;Perempuan;24.3;107;165;Ya;Rendah;Jantung
+69;Perempuan;21;111;125;Ya;Rendah;Tidak Ada
+74;Perempuan;27.6;155;122;Ya;Rendah;Diabetes
+20;Laki-laki;16.7;110;76;Tidak;Sedang;Hipertensi
+54;Perempuan;23.9;133;166;Tidak;Rendah;Tidak Ada
+68;Perempuan;25.3;136;182;Tidak;Sedang;Jantung
+24;Perempuan;20.2;128;194;Tidak;Tinggi;Hipertensi
+38;Laki-laki;21.5;118;249;Tidak;Sedang;Diabetes
+26;Perempuan;24.1;143;201;Ya;Tinggi;Hipertensi
+56;Laki-laki;27.8;179;231;Tidak;Sedang;Hipertensi
+35;Laki-laki;19.9;174;230;Ya;Tinggi;Hipertensi
+21;Laki-laki;20.6;106;190;Ya;Rendah;Tidak Ada
+42;Laki-laki;28.5;169;107;Tidak;Sedang;Jantung
+77;Perempuan;22.9;149;191;Ya;Sedang;Hipertensi
+31;Laki-laki;20.9;120;95;Tidak;Tinggi;Jantung
+67;Laki-laki;26.9;162;198;Tidak;Tinggi;Tidak Ada
+75;Perempuan;22;167;73;Ya;Sedang;Diabetes
+26;Perempuan;28.1;138;108;Tidak;Tinggi;Diabetes
+43;Laki-laki;21.3;91;123;Tidak;Rendah;Hipertensi
+70;Perempuan;23.4;137;230;Ya;Sedang;Tidak Ada
+19;Laki-laki;27.8;103;102;Ya;Rendah;Diabetes
+37;Laki-laki;23.1;148;89;Ya;Sedang;Tidak Ada
+45;Laki-laki;27;147;85;Ya;Rendah;Tidak Ada
+64;Laki-laki;23.7;147;218;Ya;Sedang;Hipertensi
+77;Perempuan;31.9;140;242;Ya;Tinggi;Hipertensi
+24;Laki-laki;30.3;173;196;Tidak;Sedang;Tidak Ada
+61;Perempuan;18.7;91;156;Tidak;Rendah;Tidak Ada
+78;Perempuan;26.1;130;151;Tidak;Sedang;Hipertensi
+25;Perempuan;20.7;172;131;Ya;Rendah;Tidak Ada
+64;Perempuan;24.8;171;100;Tidak;Rendah;Hipertensi
+52;Laki-laki;24.3;105;111;Ya;Rendah;Jantung
+31;Perempuan;19.8;93;81;Tidak;Tinggi;Tidak Ada
+34;Laki-laki;28.2;101;134;Ya;Sedang;Hipertensi
+53;Perempuan;24.8;118;142;Tidak;Rendah;Tidak Ada
+67;Perempuan;22.9;96;200;Ya;Tinggi;Hipertensi
+57;Laki-laki;22.2;103;184;Ya;Rendah;Tidak Ada
+21;Laki-laki;24.6;101;206;Ya;Sedang;Diabetes
+19;Laki-laki;25.6;94;175;Ya;Tinggi;Diabetes
+79;Perempuan;23.5;170;248;Tidak;Rendah;Tidak Ada
+23;Perempuan;12.7;121;85;Tidak;Rendah;Diabetes
+71;Laki-laki;24.1;163;147;Ya;Rendah;Tidak Ada
+59;Laki-laki;18.2;132;194;Ya;Sedang;Tidak Ada
+21;Laki-laki;23.2;170;200;Ya;Tinggi;Jantung
+71;Laki-laki;18.4;158;221;Tidak;Tinggi;Jantung
+46;Perempuan;18.3;134;210;Ya;Tinggi;Diabetes
+35;Laki-laki;28.9;98;199;Ya;Rendah;Jantung
+43;Laki-laki;22.7;138;181;Tidak;Tinggi;Jantung
+61;Laki-laki;22.4;122;196;Ya;Rendah;Tidak Ada
+51;Laki-laki;25.9;107;90;Ya;Sedang;Hipertensi
+27;Perempuan;22.5;98;216;Tidak;Tinggi;Tidak Ada
+79;Laki-laki;32.4;151;158;Ya;Rendah;Jantung
+53;Perempuan;22.9;146;116;Ya;Tinggi;Tidak Ada
+31;Laki-laki;25.5;118;219;Tidak;Tinggi;Diabetes
+48;Laki-laki;27.9;167;230;Ya;Sedang;Hipertensi
+65;Perempuan;30.4;114;229;Tidak;Tinggi;Jantung
+32;Laki-laki;21;104;154;Ya;Sedang;Jantung
+25;Perempuan;22.3;95;236;Ya;Tinggi;Tidak Ada
+31;Perempuan;29.1;131;197;Ya;Tinggi;Tidak Ada
+40;Laki-laki;27.2;118;141;Ya;Tinggi;Tidak Ada
+77;Perempuan;28.3;168;111;Ya;Tinggi;Tidak Ada
+74;Perempuan;18.5;93;78;Tidak;Tinggi;Jantung
+79;Perempuan;30.2;171;94;Ya;Tinggi;Tidak Ada
+57;Perempuan;21;146;71;Ya;Sedang;Jantung
+38;Perempuan;24.8;138;88;Tidak;Sedang;Tidak Ada
+33;Perempuan;23.4;133;89;Tidak;Rendah;Hipertensi
+62;Perempuan;20.5;169;139;Ya;Tinggi;Hipertensi
+35;Perempuan;18.3;164;86;Tidak;Sedang;Tidak Ada
+64;Laki-laki;17;103;193;Ya;Tinggi;Tidak Ada
+70;Laki-laki;24.5;92;158;Tidak;Tinggi;Diabetes
+41;Perempuan;17.9;151;163;Tidak;Sedang;Hipertensi
+43;Laki-laki;19.5;153;153;Ya;Tinggi;Jantung
+42;Perempuan;23.1;134;200;Tidak;Sedang;Hipertensi
+77;Perempuan;13.4;171;156;Ya;Sedang;Jantung
+77;Laki-laki;27.1;147;120;Tidak;Rendah;Tidak Ada
+77;Perempuan;14.4;109;151;Tidak;Rendah;Hipertensi
+62;Perempuan;23.7;147;223;Tidak;Rendah;Hipertensi
+58;Perempuan;24.1;178;77;Ya;Rendah;Diabetes
+46;Perempuan;26.2;146;234;Ya;Tinggi;Diabetes
+32;Laki-laki;23.8;166;190;Tidak;Tinggi;Hipertensi
+62;Perempuan;32.1;157;224;Ya;Rendah;Hipertensi
+18;Perempuan;24.9;167;242;Ya;Sedang;Hipertensi
+42;Perempuan;28.2;141;73;Ya;Sedang;Jantung
+24;Laki-laki;21.1;126;155;Tidak;Sedang;Tidak Ada
+26;Perempuan;24.5;97;197;Ya;Sedang;Diabetes
+41;Laki-laki;30.2;133;179;Tidak;Tinggi;Tidak Ada
+18;Laki-laki;23;94;168;Tidak;Sedang;Diabetes
+61;Perempuan;24.8;158;106;Tidak;Sedang;Diabetes
+25;Perempuan;27.9;120;140;Tidak;Rendah;Diabetes
+41;Laki-laki;21;134;102;Tidak;Sedang;Hipertensi
+28;Perempuan;15.4;98;100;Ya;Tinggi;Diabetes
+68;Laki-laki;25;121;194;Ya;Sedang;Tidak Ada
+34;Laki-laki;28;122;81;Tidak;Sedang;Diabetes
+25;Perempuan;18.6;156;80;Ya;Tinggi;Tidak Ada
+52;Perempuan;26.7;119;157;Ya;Rendah;Diabetes
+52;Laki-laki;26.7;165;141;Ya;Tinggi;Diabetes
+50;Laki-laki;14.9;118;101;Ya;Rendah;Hipertensi
+76;Laki-laki;20.3;92;126;Ya;Sedang;Tidak Ada
+22;Laki-laki;22.4;179;235;Ya;Rendah;Diabetes
+59;Perempuan;23.3;146;155;Ya;Rendah;Diabetes
+56;Perempuan;21;119;88;Tidak;Rendah;Tidak Ada
+75;Perempuan;20.8;98;185;Tidak;Sedang;Diabetes
+58;Perempuan;30.7;115;83;Tidak;Rendah;Jantung
+45;Perempuan;23.6;91;102;Ya;Rendah;Hipertensi
+24;Laki-laki;21.2;151;79;Ya;Sedang;Tidak Ada
+26;Perempuan;23.8;92;149;Tidak;Tinggi;Hipertensi
+25;Perempuan;26.1;135;133;Ya;Tinggi;Jantung
+29;Perempuan;24.2;157;137;Ya;Tinggi;Jantung
+51;Perempuan;23.2;114;161;Tidak;Sedang;Jantung
+50;Perempuan;21.4;140;194;Tidak;Sedang;Tidak Ada
+65;Laki-laki;21.4;102;240;Tidak;Tinggi;Jantung
+72;Laki-laki;21.6;133;149;Ya;Rendah;Tidak Ada
+40;Laki-laki;25.4;124;128;Ya;Tinggi;Tidak Ada
+79;Perempuan;20;144;249;Ya;Sedang;Diabetes
+41;Laki-laki;25.6;176;166;Tidak;Rendah;Tidak Ada
+54;Laki-laki;29.7;98;88;Tidak;Rendah;Jantung
+52;Perempuan;25.3;91;218;Ya;Sedang;Tidak Ada
+61;Perempuan;22.5;150;91;Tidak;Rendah;Tidak Ada
+57;Perempuan;18.8;130;78;Tidak;Tinggi;Hipertensi
+39;Laki-laki;30.3;133;78;Ya;Sedang;Jantung
+44;Laki-laki;19.3;153;96;Tidak;Sedang;Tidak Ada
+52;Perempuan;27.4;120;86;Tidak;Sedang;Diabetes
+18;Perempuan;26.6;136;241;Tidak;Sedang;Tidak Ada
+52;Laki-laki;23.1;91;114;Ya;Rendah;Tidak Ada
+54;Laki-laki;22.9;171;77;Ya;Sedang;Hipertensi
+64;Perempuan;16.7;166;215;Tidak;Sedang;Jantung
+31;Perempuan;25.3;158;194;Ya;Rendah;Jantung
+20;Laki-laki;26.5;147;192;Ya;Sedang;Diabetes
+18;Perempuan;19.6;133;102;Ya;Rendah;Diabetes
+22;Laki-laki;23.4;163;70;Tidak;Rendah;Diabetes
+43;Laki-laki;24.2;145;75;Ya;Sedang;Tidak Ada
+72;Laki-laki;26.3;132;110;Tidak;Tinggi;Tidak Ada
+31;Laki-laki;24;178;74;Tidak;Sedang;Diabetes
+56;Perempuan;17.5;123;149;Ya;Tinggi;Jantung
+44;Perempuan;21.9;119;87;Tidak;Rendah;Jantung
+26;Laki-laki;24.9;160;246;Ya;Tinggi;Diabetes
+32;Laki-laki;27.4;159;151;Ya;Sedang;Hipertensi
+32;Laki-laki;21.5;144;134;Tidak;Sedang;Jantung
+43;Laki-laki;32.8;156;152;Tidak;Tinggi;Jantung
+59;Laki-laki;16.4;102;205;Ya;Sedang;Diabetes
+77;Perempuan;21.7;92;200;Ya;Tinggi;Jantung
+30;Perempuan;23.7;115;94;Ya;Rendah;Tidak Ada
+68;Perempuan;23.2;146;138;Ya;Tinggi;Tidak Ada
+49;Perempuan;19.1;113;237;Tidak;Tinggi;Jantung
+56;Laki-laki;25.8;142;151;Tidak;Tinggi;Tidak Ada
+66;Laki-laki;25.5;159;247;Tidak;Tinggi;Hipertensi
+69;Laki-laki;24.2;132;186;Ya;Rendah;Jantung
+78;Laki-laki;25.3;149;164;Tidak;Rendah;Diabetes
+49;Laki-laki;22.3;147;102;Tidak;Rendah;Tidak Ada
+21;Perempuan;17.5;138;180;Tidak;Tinggi;Hipertensi
+47;Laki-laki;21.1;131;215;Tidak;Rendah;Hipertensi
+54;Perempuan;24.6;165;194;Ya;Sedang;Tidak Ada
+40;Perempuan;24.7;155;85;Tidak;Rendah;Hipertensi
+56;Perempuan;24.2;100;149;Tidak;Tinggi;Jantung
+62;Perempuan;26.2;179;107;Tidak;Sedang;Hipertensi
+32;Laki-laki;21.7;107;238;Tidak;Tinggi;Tidak Ada
+60;Perempuan;24.1;174;204;Ya;Sedang;Hipertensi
+46;Perempuan;26.3;141;147;Ya;Tinggi;Tidak Ada
+53;Perempuan;23.7;135;132;Tidak;Tinggi;Tidak Ada
+30;Laki-laki;19;133;181;Ya;Sedang;Hipertensi
+49;Laki-laki;20.2;111;158;Ya;Rendah;Tidak Ada
+24;Laki-laki;27.3;142;229;Ya;Sedang;Tidak Ada
+76;Perempuan;29.6;148;107;Ya;Sedang;Diabetes
+68;Perempuan;28.7;119;219;Tidak;Sedang;Jantung
+39;Laki-laki;24.9;97;213;Ya;Sedang;Tidak Ada
+45;Perempuan;19.2;146;121;Ya;Sedang;Jantung
+19;Laki-laki;24;162;98;Tidak;Tinggi;Diabetes
+59;Laki-laki;30.2;109;213;Tidak;Tinggi;Diabetes
+62;Perempuan;26.5;114;145;Tidak;Rendah;Diabetes
+79;Perempuan;23.2;108;214;Tidak;Rendah;Diabetes
+74;Perempuan;26.5;94;133;Ya;Sedang;Jantung
+70;Perempuan;18.9;164;160;Tidak;Rendah;Hipertensi
+23;Laki-laki;21.2;168;158;Ya;Rendah;Hipertensi
+45;Laki-laki;19.7;161;82;Ya;Sedang;Jantung
+45;Laki-laki;25.9;172;141;Tidak;Tinggi;Tidak Ada
+61;Laki-laki;26.9;176;74;Tidak;Tinggi;Jantung
+61;Laki-laki;23.4;116;81;Ya;Rendah;Tidak Ada
+37;Perempuan;20.5;129;238;Ya;Tinggi;Tidak Ada
+47;Laki-laki;23.9;115;72;Tidak;Tinggi;Hipertensi
+79;Laki-laki;22.1;116;102;Tidak;Rendah;Diabetes
+28;Laki-laki;20.8;151;190;Tidak;Sedang;Hipertensi
+75;Perempuan;25.4;172;119;Ya;Rendah;Hipertensi
+72;Perempuan;21;139;206;Ya;Rendah;Jantung
+45;Perempuan;17.7;131;247;Tidak;Rendah;Jantung
+42;Perempuan;18.6;118;98;Ya;Sedang;Tidak Ada
+56;Laki-laki;17.6;128;108;Tidak;Sedang;Jantung
+79;Laki-laki;25;149;160;Ya;Sedang;Tidak Ada
+50;Perempuan;24.6;130;169;Ya;Sedang;Tidak Ada
+18;Perempuan;24.4;122;242;Tidak;Rendah;Diabetes
+74;Laki-laki;26.4;172;86;Tidak;Tinggi;Diabetes
+44;Laki-laki;28.8;172;125;Tidak;Rendah;Hipertensi
+79;Perempuan;21.6;105;115;Ya;Sedang;Diabetes
+74;Perempuan;25.6;112;136;Ya;Tinggi;Tidak Ada
+69;Perempuan;17.7;96;211;Tidak;Rendah;Jantung
+30;Perempuan;29.5;115;136;Ya;Tinggi;Diabetes
+58;Laki-laki;19;101;92;Tidak;Sedang;Diabetes
+20;Laki-laki;21.2;161;163;Ya;Tinggi;Diabetes
+56;Laki-laki;21.6;94;220;Tidak;Tinggi;Diabetes
+23;Perempuan;17.9;158;224;Ya;Sedang;Tidak Ada
+25;Perempuan;24.1;138;123;Ya;Tinggi;Tidak Ada
+44;Laki-laki;24.9;115;207;Ya;Rendah;Hipertensi
+26;Laki-laki;23.2;94;146;Ya;Tinggi;Jantung
+79;Laki-laki;17.8;111;85;Tidak;Rendah;Hipertensi
+54;Laki-laki;31.9;168;110;Ya;Tinggi;Hipertensi
+50;Perempuan;26.2;102;167;Tidak;Tinggi;Diabetes
+68;Laki-laki;34.5;117;197;Tidak;Sedang;Jantung
+59;Laki-laki;20.8;122;130;Tidak;Sedang;Diabetes
+61;Laki-laki;27.8;112;155;Tidak;Rendah;Tidak Ada
+41;Laki-laki;27.1;107;187;Ya;Sedang;Hipertensi
+32;Laki-laki;22.8;119;169;Tidak;Sedang;Jantung
+76;Laki-laki;29.6;115;118;Ya;Sedang;Tidak Ada
+71;Laki-laki;22.4;105;249;Ya;Sedang;Hipertensi
+49;Perempuan;22.6;166;71;Ya;Sedang;Jantung
+49;Perempuan;10.1;128;189;Ya;Rendah;Hipertensi
+41;Perempuan;25.6;122;247;Tidak;Rendah;Jantung
+58;Perempuan;18.7;115;192;Ya;Sedang;Hipertensi
+69;Laki-laki;21.8;137;155;Tidak;Sedang;Diabetes
+66;Perempuan;19.9;154;240;Ya;Rendah;Hipertensi
+79;Perempuan;22.5;127;146;Ya;Tinggi;Hipertensi
+66;Laki-laki;25.8;91;205;Tidak;Rendah;Jantung
+75;Laki-laki;24;95;128;Ya;Tinggi;Jantung
+69;Perempuan;26.8;135;81;Ya;Sedang;Diabetes
+29;Perempuan;29.1;139;73;Ya;Sedang;Jantung
+79;Laki-laki;22.5;127;186;Ya;Rendah;Hipertensi
+56;Perempuan;22.1;177;164;Ya;Sedang;Jantung
+19;Laki-laki;27.8;107;194;Tidak;Tinggi;Jantung
+20;Laki-laki;28.1;116;110;Ya;Tinggi;Jantung
+66;Laki-laki;27;130;192;Ya;Rendah;Diabetes
+54;Laki-laki;20.2;161;76;Tidak;Tinggi;Diabetes
+66;Perempuan;25.7;163;138;Ya;Rendah;Tidak Ada
+73;Laki-laki;24.4;106;138;Tidak;Rendah;Diabetes
+34;Laki-laki;28.2;151;150;Ya;Tinggi;Diabetes
+76;Perempuan;21.7;118;99;Ya;Tinggi;Diabetes
+66;Laki-laki;17.3;147;142;Tidak;Tinggi;Hipertensi
+19;Perempuan;26.8;159;75;Ya;Tinggi;Tidak Ada
+19;Perempuan;13.8;167;158;Ya;Tinggi;Hipertensi
+45;Perempuan;21.1;111;216;Tidak;Tinggi;Diabetes
+71;Laki-laki;19.9;95;135;Tidak;Tinggi;Diabetes
+40;Perempuan;19.9;115;79;Ya;Sedang;Tidak Ada
+54;Perempuan;21;128;213;Tidak;Rendah;Tidak Ada
+49;Laki-laki;28.9;101;106;Ya;Rendah;Jantung
+50;Perempuan;27.3;103;146;Tidak;Tinggi;Diabetes
+18;Perempuan;23;111;146;Ya;Rendah;Diabetes
+36;Perempuan;28.5;140;101;Tidak;Tinggi;Hipertensi
+79;Perempuan;19.8;112;116;Tidak;Sedang;Jantung
+19;Perempuan;19.2;137;179;Tidak;Rendah;Diabetes
+70;Laki-laki;27.5;160;240;Tidak;Rendah;Hipertensi
+61;Perempuan;26.3;139;189;Tidak;Sedang;Tidak Ada
+43;Perempuan;22.2;178;233;Tidak;Sedang;Hipertensi
+49;Laki-laki;19.5;102;223;Tidak;Sedang;Diabetes
+23;Laki-laki;29.8;174;79;Tidak;Rendah;Hipertensi
+49;Laki-laki;17.1;99;228;Tidak;Rendah;Hipertensi
+72;Perempuan;21.6;144;166;Ya;Sedang;Jantung
+21;Laki-laki;24.9;98;226;Tidak;Sedang;Jantung
+72;Perempuan;31.2;168;74;Ya;Sedang;Tidak Ada
+28;Perempuan;25.5;141;146;Tidak;Sedang;Jantung
+73;Laki-laki;25.9;91;70;Ya;Sedang;Hipertensi
+76;Laki-laki;21.7;114;200;Ya;Tinggi;Jantung
+34;Perempuan;26.3;102;136;Tidak;Sedang;Diabetes
+55;Laki-laki;24.4;140;232;Tidak;Tinggi;Hipertensi
+41;Perempuan;17.6;147;84;Ya;Rendah;Hipertensi
+22;Laki-laki;27.2;123;162;Ya;Rendah;Hipertensi
+69;Laki-laki;27.9;124;99;Tidak;Tinggi;Diabetes
+51;Laki-laki;27.2;92;172;Tidak;Sedang;Hipertensi
+23;Perempuan;24.1;148;151;Tidak;Rendah;Jantung
+39;Laki-laki;20.2;159;144;Ya;Sedang;Diabetes
+28;Perempuan;14.8;137;240;Tidak;Sedang;Hipertensi
+65;Perempuan;24.6;153;129;Tidak;Tinggi;Jantung
+33;Perempuan;28.3;108;109;Tidak;Rendah;Jantung
+50;Perempuan;28;156;226;Tidak;Rendah;Tidak Ada
+26;Laki-laki;27.3;171;143;Tidak;Tinggi;Jantung
+77;Perempuan;23.7;162;190;Ya;Sedang;Jantung
+76;Perempuan;28.3;165;216;Ya;Sedang;Tidak Ada
+23;Laki-laki;27.7;94;72;Tidak;Rendah;Tidak Ada
+33;Perempuan;22.3;156;105;Tidak;Tinggi;Diabetes
+46;Laki-laki;26.7;100;112;Ya;Tinggi;Jantung
+20;Perempuan;21.9;157;212;Tidak;Sedang;Diabetes
+37;Laki-laki;26.2;158;238;Ya;Sedang;Diabetes
+77;Perempuan;18.8;90;184;Tidak;Tinggi;Hipertensi
+76;Laki-laki;19.1;152;178;Ya;Rendah;Diabetes
+53;Perempuan;28.2;118;159;Ya;Sedang;Diabetes
+36;Perempuan;27.8;171;233;Tidak;Tinggi;Diabetes
+43;Laki-laki;26.5;101;153;Ya;Tinggi;Diabetes
+20;Laki-laki;24.4;166;146;Tidak;Tinggi;Tidak Ada
+36;Laki-laki;14.4;130;230;Ya;Rendah;Jantung
+37;Laki-laki;23.7;91;74;Tidak;Sedang;Hipertensi
+49;Perempuan;25.8;126;147;Tidak;Sedang;Tidak Ada
+24;Perempuan;21.9;134;160;Tidak;Sedang;Hipertensi
+69;Laki-laki;21.2;169;156;Ya;Rendah;Hipertensi
+58;Perempuan;29.8;137;83;Tidak;Sedang;Tidak Ada
+50;Laki-laki;23.8;113;173;Tidak;Sedang;Diabetes
+57;Laki-laki;25.8;111;152;Tidak;Sedang;Tidak Ada
+56;Perempuan;27.1;100;244;Ya;Sedang;Hipertensi
+35;Perempuan;20;147;123;Tidak;Rendah;Hipertensi
+57;Perempuan;24.8;135;201;Ya;Tinggi;Diabetes
+18;Perempuan;29.3;118;164;Ya;Tinggi;Tidak Ada
+28;Perempuan;31.3;124;78;Ya;Sedang;Jantung
+45;Perempuan;24.2;104;122;Tidak;Sedang;Hipertensi
+74;Perempuan;23;149;146;Tidak;Sedang;Tidak Ada
+42;Laki-laki;25.1;131;129;Ya;Rendah;Diabetes
+67;Laki-laki;25;132;115;Tidak;Sedang;Diabetes
+40;Laki-laki;29.5;169;123;Tidak;Rendah;Jantung
+48;Laki-laki;20;163;143;Ya;Sedang;Hipertensi
+47;Laki-laki;22.9;138;181;Ya;Sedang;Jantung
+59;Perempuan;19.5;153;164;Tidak;Tinggi;Jantung
+52;Laki-laki;20;121;234;Ya;Sedang;Jantung
+24;Laki-laki;25.5;153;92;Tidak;Rendah;Jantung
+77;Laki-laki;27.2;91;96;Ya;Tinggi;Diabetes
+33;Laki-laki;21.4;113;139;Tidak;Rendah;Hipertensi
+43;Laki-laki;27.1;176;178;Tidak;Tinggi;Jantung
+65;Laki-laki;28.4;155;146;Ya;Rendah;Hipertensi
+74;Laki-laki;31.7;127;248;Tidak;Tinggi;Diabetes
+69;Perempuan;24.3;120;119;Tidak;Rendah;Diabetes
+77;Perempuan;21.4;115;193;Ya;Rendah;Tidak Ada
+66;Laki-laki;20;118;88;Tidak;Sedang;Tidak Ada
+19;Perempuan;19.6;156;70;Tidak;Tinggi;Hipertensi
+18;Perempuan;29;167;109;Tidak;Tinggi;Tidak Ada
+65;Perempuan;17.9;114;229;Ya;Sedang;Jantung
+79;Perempuan;28.9;137;91;Ya;Rendah;Hipertensi
+29;Laki-laki;20.5;154;181;Ya;Rendah;Diabetes
+22;Perempuan;21.3;142;109;Ya;Tinggi;Diabetes
+54;Perempuan;23.4;156;107;Ya;Rendah;Jantung
+49;Perempuan;21.2;179;117;Tidak;Tinggi;Tidak Ada
+76;Laki-laki;27.7;107;144;Tidak;Tinggi;Hipertensi
+72;Laki-laki;31.3;98;248;Tidak;Rendah;Hipertensi
+26;Laki-laki;21.4;127;176;Ya;Rendah;Jantung
+58;Laki-laki;22.3;176;77;Tidak;Rendah;Tidak Ada
+52;Laki-laki;23.3;110;155;Ya;Sedang;Hipertensi
+36;Laki-laki;26.2;154;137;Tidak;Tinggi;Jantung
+65;Laki-laki;23.4;110;144;Ya;Rendah;Hipertensi
+33;Perempuan;29.5;116;206;Tidak;Sedang;Diabetes
+20;Perempuan;28.6;159;159;Tidak;Rendah;Hipertensi
+37;Perempuan;19.3;133;199;Ya;Tinggi;Hipertensi
+41;Laki-laki;26.1;117;149;Tidak;Sedang;Hipertensi
+71;Laki-laki;30.1;134;164;Tidak;Tinggi;Tidak Ada
+73;Laki-laki;22;106;139;Ya;Rendah;Tidak Ada
+50;Laki-laki;22.8;129;159;Tidak;Rendah;Jantung
+41;Laki-laki;21.9;92;128;Tidak;Rendah;Tidak Ada
+69;Perempuan;22;165;216;Ya;Sedang;Hipertensi
+28;Perempuan;17.3;165;97;Ya;Sedang;Hipertensi
+66;Laki-laki;18.7;155;141;Ya;Sedang;Tidak Ada
+25;Laki-laki;24.3;135;83;Ya;Sedang;Tidak Ada
+53;Laki-laki;30.1;175;93;Ya;Rendah;Hipertensi
+55;Laki-laki;21.5;176;181;Tidak;Rendah;Hipertensi
+57;Perempuan;21.4;119;113;Ya;Rendah;Diabetes
+37;Laki-laki;30.8;158;125;Ya;Sedang;Jantung
+79;Laki-laki;19.6;98;189;Tidak;Sedang;Tidak Ada
+52;Laki-laki;17.4;174;248;Tidak;Rendah;Jantung
+65;Laki-laki;20.7;100;101;Tidak;Rendah;Hipertensi
+79;Perempuan;21.3;158;247;Tidak;Sedang;Jantung
+42;Laki-laki;17;155;238;Tidak;Tinggi;Tidak Ada
+52;Laki-laki;23.5;177;94;Ya;Rendah;Tidak Ada
+42;Perempuan;27.8;120;185;Tidak;Rendah;Jantung
+46;Perempuan;18.9;122;135;Ya;Rendah;Tidak Ada
+35;Perempuan;24.4;128;111;Tidak;Sedang;Diabetes
+63;Laki-laki;25.6;135;233;Ya;Rendah;Hipertensi
+35;Laki-laki;23.7;126;145;Tidak;Rendah;Hipertensi
+19;Perempuan;24.7;149;206;Ya;Rendah;Tidak Ada
+71;Perempuan;24.8;120;233;Ya;Rendah;Hipertensi
+52;Perempuan;20.7;100;107;Ya;Rendah;Diabetes
+33;Perempuan;30;176;230;Ya;Tinggi;Tidak Ada
+78;Perempuan;29;91;239;Ya;Tinggi;Diabetes
+58;Perempuan;28.8;116;130;Ya;Rendah;Diabetes
+53;Laki-laki;28.1;91;243;Ya;Rendah;Hipertensi
+50;Laki-laki;17.7;110;158;Ya;Rendah;Hipertensi
+21;Laki-laki;27.7;147;87;Ya;Rendah;Jantung
+50;Perempuan;26.6;94;139;Ya;Sedang;Diabetes
+31;Perempuan;17.9;141;151;Tidak;Sedang;Hipertensi
+38;Perempuan;23.1;134;185;Ya;Sedang;Diabetes
+65;Perempuan;25.1;174;149;Ya;Tinggi;Jantung
+37;Perempuan;30.7;109;84;Tidak;Rendah;Diabetes
+73;Perempuan;26.9;150;245;Ya;Sedang;Tidak Ada
+25;Laki-laki;20.5;127;82;Ya;Rendah;Jantung
+24;Laki-laki;30.8;109;188;Tidak;Rendah;Jantung
+20;Perempuan;24.2;114;112;Tidak;Tinggi;Diabetes
+34;Laki-laki;23;91;126;Ya;Tinggi;Diabetes
+50;Perempuan;22.7;121;86;Tidak;Sedang;Hipertensi
+65;Laki-laki;17.5;115;247;Ya;Sedang;Tidak Ada
+29;Perempuan;23.6;159;101;Ya;Tinggi;Jantung
+76;Perempuan;26;130;219;Ya;Tinggi;Jantung
+68;Laki-laki;22.5;156;124;Tidak;Rendah;Jantung
+39;Laki-laki;25.7;90;82;Ya;Rendah;Hipertensi
+72;Perempuan;20.5;140;116;Ya;Sedang;Tidak Ada
+39;Perempuan;23.4;94;156;Tidak;Sedang;Jantung
+63;Laki-laki;25.3;102;131;Ya;Tinggi;Jantung
+47;Laki-laki;24.8;108;98;Ya;Sedang;Hipertensi
+55;Perempuan;17.6;101;91;Ya;Rendah;Diabetes
+55;Laki-laki;22.2;137;134;Ya;Tinggi;Jantung
+62;Perempuan;30.7;114;98;Ya;Rendah;Tidak Ada
+68;Perempuan;22;146;117;Ya;Tinggi;Tidak Ada
+71;Perempuan;24.1;124;74;Tidak;Tinggi;Tidak Ada
+25;Perempuan;23.7;165;232;Ya;Rendah;Tidak Ada
+44;Laki-laki;30.3;94;170;Ya;Sedang;Hipertensi
+44;Laki-laki;29.2;111;140;Tidak;Sedang;Jantung
+51;Laki-laki;27.2;166;243;Ya;Sedang;Hipertensi
+38;Laki-laki;20.1;146;232;Ya;Sedang;Tidak Ada
+47;Laki-laki;25.4;136;242;Tidak;Rendah;Tidak Ada
+50;Laki-laki;26.3;143;210;Tidak;Tinggi;Tidak Ada
+45;Laki-laki;21.2;92;207;Tidak;Rendah;Hipertensi
+64;Perempuan;20.5;142;135;Tidak;Sedang;Tidak Ada
+50;Laki-laki;30.8;173;141;Tidak;Sedang;Jantung
+22;Laki-laki;22.8;120;94;Tidak;Rendah;Tidak Ada
+77;Perempuan;30.5;158;241;Tidak;Tinggi;Jantung
+78;Laki-laki;28;177;129;Ya;Rendah;Jantung
+65;Laki-laki;25.6;122;244;Ya;Rendah;Tidak Ada
+36;Perempuan;25.8;161;109;Ya;Rendah;Hipertensi
+21;Laki-laki;18.4;177;76;Tidak;Tinggi;Diabetes
+52;Laki-laki;24.8;139;243;Ya;Rendah;Diabetes
+66;Laki-laki;29.7;173;220;Tidak;Rendah;Jantung
+34;Perempuan;26.7;105;115;Ya;Sedang;Hipertensi
+61;Laki-laki;24.6;165;155;Ya;Rendah;Diabetes
+45;Laki-laki;30.8;166;210;Ya;Sedang;Tidak Ada
+47;Perempuan;23.3;128;90;Ya;Sedang;Tidak Ada
+46;Laki-laki;21.5;178;70;Tidak;Sedang;Jantung
+63;Perempuan;24.6;135;192;Tidak;Tinggi;Hipertensi
+70;Perempuan;27.1;177;216;Ya;Sedang;Hipertensi
+23;Laki-laki;17.1;136;194;Tidak;Rendah;Diabetes
+52;Perempuan;25.1;133;102;Tidak;Rendah;Diabetes
+77;Perempuan;27.2;98;73;Ya;Sedang;Tidak Ada
+58;Laki-laki;22.9;176;72;Tidak;Sedang;Jantung
+54;Perempuan;28.4;139;160;Tidak;Rendah;Hipertensi
+41;Perempuan;26.6;166;121;Tidak;Sedang;Diabetes
+46;Laki-laki;32.6;149;97;Tidak;Tinggi;Diabetes
+66;Laki-laki;21;104;139;Ya;Sedang;Jantung
+63;Laki-laki;27.3;125;126;Ya;Tinggi;Jantung
+70;Perempuan;19.9;152;177;Tidak;Tinggi;Tidak Ada
+48;Laki-laki;17.5;158;213;Ya;Tinggi;Jantung
+52;Perempuan;15.9;175;93;Ya;Sedang;Tidak Ada
+77;Perempuan;26.2;169;238;Ya;Tinggi;Tidak Ada
+50;Perempuan;24.7;130;146;Tidak;Tinggi;Jantung
+69;Perempuan;22.1;163;244;Tidak;Sedang;Jantung
+78;Perempuan;16.9;113;145;Ya;Tinggi;Jantung
+38;Perempuan;21.2;171;138;Ya;Sedang;Jantung
+49;Perempuan;24;138;170;Tidak;Rendah;Jantung
+40;Laki-laki;27.2;107;228;Ya;Tinggi;Tidak Ada
+50;Laki-laki;23.9;96;161;Tidak;Sedang;Diabetes
+20;Perempuan;25;93;161;Ya;Rendah;Hipertensi
+35;Perempuan;22.5;179;99;Tidak;Tinggi;Hipertensi
+42;Laki-laki;31;158;87;Tidak;Tinggi;Tidak Ada
+59;Perempuan;19.9;149;113;Tidak;Sedang;Tidak Ada
+48;Laki-laki;21.2;144;224;Tidak;Rendah;Diabetes
+71;Laki-laki;22;105;168;Ya;Sedang;Jantung
+75;Laki-laki;26.2;179;223;Tidak;Tinggi;Tidak Ada
+20;Perempuan;19.8;171;190;Ya;Tinggi;Hipertensi
+57;Perempuan;24.5;118;184;Tidak;Tinggi;Jantung
+63;Laki-laki;24.7;112;129;Tidak;Tinggi;Tidak Ada
+41;Laki-laki;21.2;103;215;Ya;Rendah;Jantung
+67;Laki-laki;25.3;168;125;Ya;Rendah;Hipertensi
+49;Laki-laki;20;138;100;Ya;Sedang;Jantung
+64;Laki-laki;19.5;122;170;Tidak;Sedang;Tidak Ada
+39;Perempuan;24.4;114;128;Tidak;Sedang;Tidak Ada
+40;Laki-laki;17.4;110;193;Ya;Tinggi;Hipertensi
+19;Perempuan;15.4;106;199;Tidak;Sedang;Diabetes
+44;Laki-laki;26.1;112;166;Ya;Rendah;Diabetes
+59;Perempuan;28.2;146;236;Tidak;Sedang;Jantung
+19;Perempuan;22.1;170;176;Tidak;Sedang;Tidak Ada
+43;Perempuan;21.3;147;87;Tidak;Rendah;Tidak Ada
+34;Perempuan;28;103;214;Ya;Rendah;Hipertensi
+57;Perempuan;19.4;109;236;Tidak;Tinggi;Hipertensi
+50;Perempuan;18.5;119;140;Ya;Rendah;Tidak Ada
+26;Laki-laki;26.8;108;175;Ya;Rendah;Hipertensi
+60;Perempuan;24;142;123;Tidak;Sedang;Diabetes
+71;Laki-laki;28.3;145;163;Ya;Rendah;Diabetes
+65;Perempuan;15.4;166;145;Ya;Tinggi;Jantung
+56;Perempuan;18.4;171;104;Tidak;Sedang;Hipertensi
+46;Laki-laki;24.1;112;80;Ya;Tinggi;Jantung
+59;Perempuan;25.7;151;130;Ya;Rendah;Hipertensi
+72;Laki-laki;27.4;122;113;Tidak;Tinggi;Hipertensi
+43;Laki-laki;24.7;107;190;Tidak;Tinggi;Diabetes
+52;Laki-laki;24.7;162;137;Tidak;Rendah;Tidak Ada
+67;Laki-laki;22.4;122;94;Ya;Rendah;Hipertensi
+42;Perempuan;30.4;121;245;Ya;Sedang;Hipertensi
+41;Perempuan;19.6;150;229;Tidak;Sedang;Hipertensi
+30;Laki-laki;25.4;143;153;Ya;Sedang;Tidak Ada
+77;Perempuan;20;106;183;Tidak;Rendah;Jantung
+75;Perempuan;26.1;108;201;Tidak;Tinggi;Jantung
+24;Laki-laki;19.9;159;235;Tidak;Tinggi;Hipertensi
+74;Perempuan;27;123;244;Ya;Sedang;Hipertensi
+53;Laki-laki;24.4;173;70;Ya;Sedang;Jantung
+62;Laki-laki;31;114;200;Tidak;Rendah;Jantung
+37;Perempuan;22.9;157;155;Tidak;Tinggi;Diabetes
+18;Perempuan;25.7;163;131;Ya;Sedang;Hipertensi
+25;Perempuan;20.9;163;133;Tidak;Rendah;Jantung
+63;Laki-laki;22.8;177;214;Ya;Sedang;Diabetes
+33;Laki-laki;24.4;174;195;Tidak;Rendah;Tidak Ada
+31;Perempuan;17.9;100;174;Tidak;Tinggi;Hipertensi
+29;Perempuan;18.3;105;131;Ya;Rendah;Jantung
+68;Perempuan;26.4;179;104;Ya;Sedang;Hipertensi
+40;Perempuan;23.4;150;82;Ya;Sedang;Diabetes
+32;Laki-laki;21.6;169;232;Ya;Tinggi;Jantung
+45;Perempuan;21.1;96;112;Ya;Tinggi;Tidak Ada
+51;Laki-laki;21.2;105;199;Tidak;Sedang;Tidak Ada
+19;Laki-laki;24.5;105;180;Tidak;Sedang;Diabetes
+49;Perempuan;25.8;129;197;Ya;Sedang;Tidak Ada
+40;Perempuan;15.6;101;120;Ya;Tinggi;Tidak Ada
+39;Perempuan;29.7;124;213;Tidak;Sedang;Tidak Ada
+68;Laki-laki;29.4;110;215;Tidak;Tinggi;Tidak Ada
+42;Perempuan;14.7;139;204;Ya;Sedang;Tidak Ada
+75;Perempuan;28.3;132;114;Ya;Rendah;Tidak Ada
+79;Laki-laki;28.2;106;233;Tidak;Rendah;Tidak Ada
+78;Perempuan;24;121;238;Ya;Sedang;Jantung
+39;Laki-laki;18.8;130;111;Tidak;Rendah;Tidak Ada
+75;Perempuan;28.1;95;204;Tidak;Tinggi;Jantung
+75;Laki-laki;23;177;84;Ya;Rendah;Hipertensi
+39;Perempuan;26.2;116;129;Tidak;Rendah;Diabetes
+66;Perempuan;32.9;109;109;Tidak;Tinggi;Tidak Ada
+69;Laki-laki;25;114;234;Tidak;Rendah;Diabetes
+59;Laki-laki;20.3;155;181;Ya;Rendah;Tidak Ada
+23;Perempuan;22.7;98;146;Tidak;Sedang;Jantung
+32;Laki-laki;20.8;142;174;Ya;Tinggi;Tidak Ada
+71;Laki-laki;25.7;150;176;Tidak;Tinggi;Hipertensi
+60;Laki-laki;20.8;127;191;Tidak;Sedang;Diabetes
+77;Laki-laki;22.1;92;149;Tidak;Sedang;Diabetes
+54;Perempuan;18.9;173;194;Tidak;Rendah;Hipertensi
+50;Perempuan;23.5;159;241;Tidak;Rendah;Jantung
+25;Laki-laki;24.7;144;203;Ya;Rendah;Jantung
+70;Laki-laki;13.3;90;101;Ya;Sedang;Hipertensi
+77;Laki-laki;25;159;177;Tidak;Tinggi;Diabetes
+61;Laki-laki;23.8;134;183;Ya;Rendah;Tidak Ada
+61;Perempuan;20.9;136;215;Ya;Sedang;Jantung
+22;Perempuan;32.1;168;137;Tidak;Tinggi;Tidak Ada
+56;Laki-laki;27.8;115;196;Ya;Sedang;Diabetes
+21;Laki-laki;19.6;103;204;Ya;Rendah;Tidak Ada
+23;Laki-laki;27.4;143;183;Ya;Sedang;Hipertensi
+62;Perempuan;29;160;77;Ya;Sedang;Jantung
+49;Laki-laki;24.5;135;133;Tidak;Sedang;Jantung
+69;Perempuan;25.4;120;204;Ya;Sedang;Hipertensi
+47;Laki-laki;25.4;177;110;Tidak;Tinggi;Hipertensi
+64;Perempuan;15.7;148;109;Tidak;Rendah;Jantung
+52;Laki-laki;23.3;118;72;Ya;Tinggi;Jantung
+72;Perempuan;23;106;214;Tidak;Sedang;Jantung
+57;Laki-laki;29.7;103;179;Ya;Sedang;Diabetes
+69;Laki-laki;25.3;125;183;Tidak;Rendah;Diabetes
+33;Laki-laki;22.8;147;181;Ya;Rendah;Diabetes
+30;Perempuan;23.6;113;249;Ya;Tinggi;Tidak Ada
+67;Laki-laki;28.1;152;219;Tidak;Tinggi;Diabetes
+77;Perempuan;23.3;114;73;Ya;Rendah;Jantung
+59;Perempuan;21.2;148;203;Ya;Tinggi;Diabetes
+47;Laki-laki;22.9;121;235;Ya;Sedang;Jantung
+36;Laki-laki;27.8;171;95;Ya;Sedang;Hipertensi
+34;Laki-laki;26;107;208;Tidak;Rendah;Tidak Ada
+73;Perempuan;24.2;126;86;Tidak;Tinggi;Tidak Ada
+36;Laki-laki;24.8;115;161;Tidak;Sedang;Hipertensi
+45;Perempuan;21.8;98;100;Ya;Rendah;Jantung
+75;Perempuan;23.2;153;232;Tidak;Tinggi;Tidak Ada
+72;Laki-laki;21.3;161;213;Ya;Sedang;Diabetes
+43;Laki-laki;22.8;109;176;Ya;Tinggi;Jantung
+54;Laki-laki;29.4;143;215;Ya;Tinggi;Tidak Ada
+43;Laki-laki;19.7;175;180;Tidak;Tinggi;Hipertensi
+70;Laki-laki;21.2;172;170;Tidak;Rendah;Jantung
+79;Laki-laki;19;119;181;Tidak;Sedang;Tidak Ada
+40;Perempuan;18.1;142;131;Tidak;Rendah;Hipertensi
+26;Perempuan;23.3;152;181;Ya;Sedang;Jantung
+29;Perempuan;21.5;100;224;Tidak;Sedang;Diabetes
+70;Laki-laki;31;120;232;Tidak;Rendah;Jantung
+18;Perempuan;22.9;138;185;Tidak;Rendah;Diabetes
+75;Perempuan;29.2;176;242;Tidak;Sedang;Jantung
+75;Perempuan;27.9;108;104;Ya;Sedang;Hipertensi
+18;Perempuan;23.2;101;97;Tidak;Sedang;Diabetes
+64;Perempuan;32.4;104;172;Tidak;Tinggi;Diabetes
+51;Laki-laki;25.1;120;194;Tidak;Sedang;Jantung
+49;Laki-laki;30.1;132;171;Ya;Rendah;Tidak Ada
+79;Perempuan;29.6;126;206;Tidak;Rendah;Diabetes
+71;Perempuan;25.7;168;212;Tidak;Rendah;Jantung
+65;Perempuan;27;118;90;Tidak;Sedang;Hipertensi
+42;Laki-laki;26.5;115;121;Ya;Sedang;Jantung
+57;Laki-laki;19.4;91;232;Ya;Tinggi;Jantung
+62;Perempuan;24.2;173;166;Tidak;Tinggi;Diabetes
+70;Laki-laki;28.3;104;120;Tidak;Rendah;Tidak Ada
+18;Laki-laki;30.1;93;152;Ya;Tinggi;Hipertensi
+33;Perempuan;21.1;175;124;Ya;Tinggi;Diabetes
+78;Laki-laki;26.1;139;146;Ya;Rendah;Diabetes
+56;Laki-laki;24.6;127;196;Ya;Sedang;Diabetes
+22;Perempuan;23.5;112;241;Ya;Tinggi;Hipertensi
+39;Laki-laki;25.4;148;162;Tidak;Sedang;Tidak Ada
+46;Laki-laki;24.9;179;157;Tidak;Rendah;Hipertensi
+72;Perempuan;26.2;164;149;Tidak;Rendah;Hipertensi
+20;Laki-laki;29.8;117;222;Tidak;Tinggi;Tidak Ada
+29;Laki-laki;27.1;155;161;Ya;Rendah;Hipertensi
+43;Perempuan;25.2;97;116;Ya;Rendah;Jantung
+33;Perempuan;31.5;118;107;Ya;Rendah;Hipertensi
+68;Perempuan;28.4;100;208;Ya;Tinggi;Diabetes
+54;Laki-laki;23.6;107;84;Ya;Tinggi;Hipertensi
+39;Perempuan;19.1;144;70;Tidak;Tinggi;Diabetes
+74;Laki-laki;20;139;204;Tidak;Rendah;Hipertensi
+46;Perempuan;27.7;103;70;Tidak;Sedang;Diabetes
+31;Laki-laki;21.5;163;118;Tidak;Rendah;Diabetes
+45;Perempuan;20;98;165;Tidak;Tinggi;Diabetes
+22;Perempuan;21;100;226;Ya;Sedang;Tidak Ada
+64;Perempuan;21.3;152;95;Ya;Sedang;Hipertensi
+66;Perempuan;27.4;165;156;Ya;Tinggi;Hipertensi
+47;Laki-laki;23.4;156;242;Ya;Sedang;Jantung
+63;Perempuan;18.5;142;162;Ya;Sedang;Jantung
+79;Perempuan;24.1;128;171;Tidak;Tinggi;Jantung
+69;Laki-laki;24.9;167;140;Tidak;Sedang;Hipertensi
+22;Perempuan;22.1;145;209;Tidak;Sedang;Tidak Ada
+29;Laki-laki;28.6;117;164;Ya;Tinggi;Diabetes
+33;Perempuan;22.3;164;229;Ya;Sedang;Hipertensi
+43;Perempuan;28.4;128;187;Ya;Sedang;Tidak Ada
+43;Perempuan;26.4;114;217;Ya;Sedang;Tidak Ada
+65;Laki-laki;27.7;110;188;Tidak;Sedang;Hipertensi
+38;Perempuan;19.6;99;120;Ya;Tinggi;Diabetes
+56;Perempuan;24.4;132;150;Tidak;Rendah;Tidak Ada
+53;Perempuan;23.8;104;105;Ya;Rendah;Hipertensi
+50;Laki-laki;18.3;172;136;Tidak;Sedang;Diabetes
+79;Laki-laki;28.4;137;198;Ya;Tinggi;Jantung
+47;Perempuan;20.7;175;183;Ya;Tinggi;Tidak Ada
+54;Laki-laki;21.6;110;224;Tidak;Sedang;Tidak Ada
+40;Perempuan;19.9;149;180;Tidak;Rendah;Hipertensi
+75;Perempuan;26.8;139;237;Ya;Sedang;Hipertensi
+27;Perempuan;17.9;112;211;Tidak;Tinggi;Diabetes
+71;Perempuan;26.5;102;169;Ya;Tinggi;Jantung
+22;Perempuan;28.2;158;178;Ya;Rendah;Jantung
+53;Perempuan;26.1;93;189;Tidak;Tinggi;Hipertensi
+51;Perempuan;26.9;167;148;Ya;Tinggi;Hipertensi
+69;Laki-laki;27;161;203;Ya;Tinggi;Diabetes
+48;Laki-laki;20.2;98;230;Tidak;Rendah;Hipertensi
+27;Laki-laki;29.7;124;88;Ya;Tinggi;Diabetes
+75;Laki-laki;22.2;110;196;Ya;Sedang;Diabetes
+36;Laki-laki;23.7;147;98;Ya;Rendah;Jantung
+75;Laki-laki;22.7;107;93;Ya;Sedang;Diabetes
+49;Laki-laki;26;161;220;Tidak;Sedang;Jantung
+18;Perempuan;21.8;170;79;Tidak;Rendah;Jantung
+73;Perempuan;24.3;132;174;Tidak;Sedang;Jantung
+22;Perempuan;19.1;95;238;Ya;Rendah;Hipertensi
+62;Perempuan;28.7;175;246;Tidak;Sedang;Jantung
+21;Laki-laki;26.7;167;214;Tidak;Rendah;Diabetes
+33;Laki-laki;22.8;156;242;Tidak;Tinggi;Hipertensi
+41;Perempuan;22.1;101;227;Ya;Tinggi;Diabetes
+33;Perempuan;26.6;101;241;Tidak;Sedang;Hipertensi
+72;Laki-laki;21.2;155;124;Tidak;Tinggi;Diabetes
+19;Perempuan;24.5;91;216;Ya;Rendah;Tidak Ada
+66;Perempuan;28.6;104;226;Ya;Sedang;Tidak Ada
+45;Perempuan;20.8;112;71;Ya;Tinggi;Tidak Ada
+49;Perempuan;25.5;118;233;Ya;Tinggi;Diabetes
+44;Laki-laki;25.3;170;216;Ya;Sedang;Hipertensi
+37;Perempuan;23.6;96;204;Ya;Tinggi;Jantung
+41;Perempuan;22;117;223;Tidak;Tinggi;Jantung
+29;Laki-laki;28.9;103;180;Tidak;Sedang;Diabetes
+67;Laki-laki;21.6;133;107;Ya;Tinggi;Diabetes
+52;Perempuan;16.8;119;200;Ya;Tinggi;Diabetes
+77;Laki-laki;26.6;170;171;Tidak;Tinggi;Diabetes
+50;Perempuan;19.2;121;164;Ya;Tinggi;Jantung
+50;Perempuan;26.8;159;161;Ya;Sedang;Hipertensi
+78;Laki-laki;29.3;177;140;Tidak;Rendah;Jantung
+68;Perempuan;26.5;95;240;Ya;Rendah;Diabetes
+60;Perempuan;28.3;116;93;Ya;Tinggi;Tidak Ada
+54;Perempuan;32.1;171;236;Tidak;Tinggi;Jantung
+29;Perempuan;27.9;177;137;Tidak;Rendah;Tidak Ada
+20;Laki-laki;25.3;113;197;Tidak;Tinggi;Tidak Ada
+18;Laki-laki;30.5;123;162;Tidak;Rendah;Diabetes
+50;Perempuan;31;129;113;Tidak;Sedang;Jantung
+57;Laki-laki;31.1;136;202;Ya;Sedang;Hipertensi
+27;Perempuan;22;168;124;Ya;Sedang;Jantung
+60;Perempuan;18.6;164;227;Ya;Sedang;Hipertensi
+61;Perempuan;21.8;175;98;Ya;Sedang;Hipertensi
+46;Perempuan;26.8;113;223;Ya;Sedang;Diabetes
+30;Perempuan;24.6;154;223;Tidak;Rendah;Hipertensi
+29;Laki-laki;23.2;107;106;Ya;Tinggi;Jantung
+48;Perempuan;26.2;133;184;Ya;Rendah;Jantung
+63;Laki-laki;18.1;165;227;Ya;Sedang;Tidak Ada
+19;Laki-laki;24.6;146;72;Ya;Tinggi;Hipertensi
+78;Perempuan;28.5;117;191;Ya;Tinggi;Diabetes
+68;Perempuan;26.2;160;112;Tidak;Sedang;Diabetes
+67;Perempuan;26.8;112;76;Ya;Sedang;Jantung
+52;Perempuan;30.4;174;194;Ya;Sedang;Hipertensi
+40;Perempuan;23.7;123;118;Ya;Sedang;Diabetes
+34;Laki-laki;21.4;100;190;Ya;Sedang;Hipertensi
+43;Perempuan;28.8;175;142;Ya;Sedang;Hipertensi
+25;Perempuan;28.7;124;110;Ya;Tinggi;Tidak Ada
+46;Laki-laki;26.2;131;175;Tidak;Sedang;Diabetes
+43;Laki-laki;23.4;117;146;Ya;Sedang;Tidak Ada
+27;Perempuan;24;171;196;Tidak;Tinggi;Diabetes
+43;Laki-laki;18.9;167;160;Tidak;Rendah;Hipertensi
+79;Perempuan;28.5;171;224;Ya;Sedang;Diabetes
+51;Laki-laki;28.3;113;77;Ya;Tinggi;Jantung
+68;Laki-laki;18.8;97;101;Ya;Tinggi;Hipertensi
+58;Perempuan;27.5;142;133;Tidak;Rendah;Diabetes
+24;Laki-laki;25.6;161;207;Ya;Sedang;Tidak Ada
+21;Laki-laki;19.9;93;82;Ya;Sedang;Tidak Ada
+75;Laki-laki;19.2;94;162;Ya;Sedang;Hipertensi
+70;Laki-laki;25.5;138;232;Tidak;Tinggi;Tidak Ada
+67;Laki-laki;22.4;119;130;Tidak;Sedang;Hipertensi
+62;Laki-laki;31.3;161;77;Ya;Sedang;Hipertensi
+28;Perempuan;27.8;152;98;Tidak;Sedang;Hipertensi
+46;Perempuan;25.9;136;164;Ya;Sedang;Diabetes
+73;Laki-laki;26.1;115;110;Tidak;Rendah;Hipertensi
+53;Perempuan;29.3;146;227;Ya;Rendah;Tidak Ada
+42;Perempuan;27.4;126;218;Tidak;Rendah;Jantung
+38;Perempuan;26;96;80;Ya;Sedang;Diabetes
+78;Laki-laki;20.1;129;71;Ya;Sedang;Tidak Ada
+74;Perempuan;36.2;128;247;Tidak;Tinggi;Hipertensi
+53;Laki-laki;19.6;151;238;Tidak;Tinggi;Hipertensi
+27;Perempuan;22.7;167;200;Tidak;Tinggi;Jantung
+54;Laki-laki;17.4;142;149;Tidak;Sedang;Tidak Ada
+26;Laki-laki;26.2;93;248;Tidak;Rendah;Diabetes
+41;Perempuan;24.6;171;156;Ya;Rendah;Tidak Ada
+52;Perempuan;27.1;114;222;Ya;Rendah;Hipertensi
+66;Laki-laki;17;96;227;Tidak;Sedang;Diabetes
+52;Perempuan;28.5;117;175;Ya;Rendah;Hipertensi
+65;Perempuan;20.8;158;208;Ya;Tinggi;Hipertensi
+53;Perempuan;23.4;156;86;Tidak;Tinggi;Tidak Ada
+35;Laki-laki;27.7;109;223;Ya;Rendah;Jantung
+66;Laki-laki;25;172;92;Ya;Tinggi;Hipertensi
+56;Perempuan;25.3;100;249;Tidak;Rendah;Tidak Ada
+49;Perempuan;27.2;156;117;Tidak;Rendah;Diabetes
+41;Perempuan;25.7;176;89;Ya;Tinggi;Jantung
+40;Laki-laki;22.6;96;71;Tidak;Tinggi;Hipertensi
+79;Laki-laki;23.3;112;157;Ya;Tinggi;Hipertensi
+49;Perempuan;24.8;150;100;Tidak;Tinggi;Diabetes
+54;Perempuan;20.4;160;224;Tidak;Rendah;Tidak Ada
+29;Perempuan;28;123;199;Tidak;Tinggi;Hipertensi
+66;Perempuan;25.2;108;147;Tidak;Tinggi;Diabetes
+72;Perempuan;24.3;147;73;Ya;Sedang;Hipertensi
+30;Perempuan;28.8;98;210;Tidak;Tinggi;Tidak Ada
+40;Laki-laki;23.5;137;232;Tidak;Tinggi;Jantung
+42;Perempuan;23.3;171;197;Ya;Rendah;Tidak Ada
+52;Laki-laki;22.1;130;203;Ya;Rendah;Tidak Ada
+58;Perempuan;25.4;137;100;Ya;Sedang;Tidak Ada
+47;Perempuan;25.2;134;207;Ya;Tinggi;Diabetes
+34;Laki-laki;21.3;114;90;Tidak;Tinggi;Hipertensi
+66;Laki-laki;23.3;167;92;Ya;Tinggi;Jantung
+79;Laki-laki;21.4;114;200;Tidak;Tinggi;Diabetes
+37;Laki-laki;21.2;108;229;Ya;Tinggi;Tidak Ada
+65;Perempuan;17.1;128;217;Tidak;Tinggi;Jantung
+42;Laki-laki;23.1;168;98;Ya;Sedang;Tidak Ada
+39;Perempuan;17.2;169;174;Tidak;Tinggi;Tidak Ada
+30;Laki-laki;22.1;116;121;Tidak;Tinggi;Tidak Ada
+76;Perempuan;21.5;163;184;Ya;Tinggi;Jantung
+36;Perempuan;28.2;152;243;Tidak;Sedang;Hipertensi
+66;Perempuan;19.9;157;231;Tidak;Tinggi;Tidak Ada
+53;Perempuan;21;108;170;Tidak;Sedang;Hipertensi
+29;Perempuan;22.5;117;153;Tidak;Rendah;Jantung
+78;Perempuan;21.7;174;130;Ya;Tinggi;Jantung
+58;Laki-laki;29.5;167;194;Tidak;Sedang;Tidak Ada
+36;Perempuan;19.4;122;140;Tidak;Rendah;Hipertensi
+29;Laki-laki;22.5;99;139;Ya;Sedang;Hipertensi
+26;Laki-laki;25.3;172;208;Ya;Sedang;Tidak Ada
+24;Perempuan;27.5;119;177;Ya;Rendah;Diabetes
+45;Laki-laki;22.5;111;90;Tidak;Tinggi;Diabetes
+31;Perempuan;16.3;92;200;Tidak;Tinggi;Jantung
+48;Laki-laki;23.4;171;151;Ya;Sedang;Jantung
+69;Perempuan;29.4;164;157;Tidak;Rendah;Diabetes
+36;Laki-laki;25.1;137;180;Ya;Tinggi;Diabetes
+75;Perempuan;24.9;91;79;Tidak;Sedang;Diabetes
+64;Perempuan;19.7;165;224;Ya;Rendah;Tidak Ada
+33;Perempuan;19.3;143;81;Tidak;Sedang;Tidak Ada
+70;Perempuan;24.1;95;76;Ya;Rendah;Tidak Ada
+22;Laki-laki;18.3;129;214;Tidak;Tinggi;Tidak Ada
+52;Perempuan;27.1;91;183;Ya;Tinggi;Tidak Ada
+29;Laki-laki;20.6;162;95;Tidak;Sedang;Tidak Ada
+42;Laki-laki;23.9;91;84;Tidak;Tinggi;Jantung
+69;Laki-laki;16.5;163;102;Tidak;Tinggi;Hipertensi
+76;Perempuan;22.4;144;131;Ya;Rendah;Jantung
+38;Laki-laki;19.3;161;116;Tidak;Tinggi;Hipertensi
+53;Laki-laki;14.7;149;164;Tidak;Rendah;Jantung
+70;Laki-laki;26.2;95;104;Tidak;Rendah;Jantung
+40;Perempuan;30.6;108;145;Ya;Sedang;Tidak Ada
+33;Perempuan;28.5;116;192;Tidak;Rendah;Tidak Ada
+74;Laki-laki;26.7;90;152;Ya;Tinggi;Hipertensi
+56;Perempuan;22.3;122;94;Tidak;Rendah;Hipertensi
+62;Perempuan;27.2;129;126;Ya;Rendah;Tidak Ada
+70;Laki-laki;28.9;121;101;Ya;Sedang;Jantung
+59;Laki-laki;24.5;158;132;Tidak;Tinggi;Hipertensi
+75;Perempuan;19.3;106;81;Ya;Tinggi;Diabetes
+56;Laki-laki;22;97;132;Ya;Tinggi;Diabetes
+31;Perempuan;30.8;146;146;Tidak;Rendah;Diabetes
+48;Perempuan;23.7;131;161;Ya;Tinggi;Hipertensi
+75;Perempuan;10.7;98;70;Ya;Tinggi;Tidak Ada
+22;Perempuan;18.1;176;248;Ya;Rendah;Tidak Ada
+52;Perempuan;22.3;124;139;Ya;Sedang;Tidak Ada
+40;Perempuan;28.1;160;205;Tidak;Sedang;Hipertensi
+46;Laki-laki;22.9;168;202;Ya;Rendah;Hipertensi
+60;Laki-laki;28.2;142;155;Ya;Sedang;Diabetes
+28;Perempuan;21.9;143;108;Tidak;Sedang;Hipertensi
+35;Perempuan;16.1;173;92;Tidak;Sedang;Diabetes
+64;Perempuan;22;114;137;Ya;Tinggi;Diabetes
+29;Laki-laki;25.4;156;249;Tidak;Sedang;Tidak Ada
+26;Perempuan;25;151;73;Tidak;Tinggi;Hipertensi
+27;Laki-laki;19;144;195;Tidak;Sedang;Tidak Ada
+75;Perempuan;22.6;135;244;Tidak;Tinggi;Tidak Ada
+61;Perempuan;34.7;113;90;Tidak;Rendah;Hipertensi
+34;Laki-laki;19.1;135;174;Tidak;Rendah;Hipertensi
+78;Laki-laki;26.6;111;135;Tidak;Sedang;Jantung
+55;Perempuan;15.6;100;76;Tidak;Tinggi;Diabetes
+24;Perempuan;27.5;137;118;Tidak;Rendah;Jantung
+63;Perempuan;20.4;97;85;Ya;Rendah;Diabetes
+30;Laki-laki;25.6;128;214;Ya;Rendah;Diabetes
+57;Laki-laki;18.8;124;153;Ya;Rendah;Diabetes
+59;Laki-laki;25.2;138;156;Ya;Sedang;Tidak Ada
+26;Laki-laki;20.4;135;167;Ya;Tinggi;Tidak Ada
+67;Laki-laki;21.1;127;144;Tidak;Rendah;Hipertensi
+44;Laki-laki;25.8;97;103;Tidak;Sedang;Diabetes
+75;Perempuan;22.3;143;230;Ya;Rendah;Diabetes
+19;Perempuan;25.5;126;95;Ya;Rendah;Diabetes
+22;Laki-laki;23.2;129;135;Tidak;Rendah;Tidak Ada
+46;Perempuan;24.3;123;194;Ya;Rendah;Hipertensi
+54;Perempuan;25.8;168;132;Tidak;Sedang;Tidak Ada
+55;Laki-laki;22.6;106;156;Ya;Tinggi;Jantung
+36;Perempuan;20;122;110;Tidak;Sedang;Jantung
+25;Laki-laki;21.9;136;167;Ya;Sedang;Jantung
+65;Laki-laki;28.8;141;193;Tidak;Sedang;Hipertensi
+62;Perempuan;24.5;169;148;Ya;Rendah;Jantung
+18;Laki-laki;20.6;98;79;Ya;Tinggi;Hipertensi
+39;Laki-laki;25.6;122;84;Tidak;Rendah;Tidak Ada
+69;Laki-laki;25.9;149;111;Tidak;Sedang;Tidak Ada
+34;Laki-laki;26.1;166;162;Ya;Rendah;Hipertensi
+24;Laki-laki;20.1;110;86;Ya;Tinggi;Tidak Ada
+42;Laki-laki;21.3;147;78;Tidak;Tinggi;Tidak Ada
+62;Laki-laki;21.3;174;183;Tidak;Rendah;Hipertensi
+21;Laki-laki;22.6;158;105;Tidak;Sedang;Jantung
+53;Perempuan;26.2;99;105;Ya;Rendah;Hipertensi
+23;Perempuan;25.2;95;117;Ya;Sedang;Diabetes
+77;Perempuan;25.5;102;120;Tidak;Tinggi;Tidak Ada
+48;Laki-laki;29.4;154;166;Ya;Rendah;Hipertensi
+36;Laki-laki;26.8;109;188;Ya;Tinggi;Tidak Ada
+78;Perempuan;23.4;146;164;Tidak;Sedang;Jantung
+61;Perempuan;19.3;135;139;Ya;Sedang;Tidak Ada
+71;Perempuan;21.1;97;143;Tidak;Rendah;Hipertensi
+56;Laki-laki;23;99;149;Tidak;Rendah;Jantung
+44;Perempuan;27.3;162;137;Ya;Rendah;Jantung
+27;Perempuan;23.9;156;219;Ya;Tinggi;Jantung
+43;Laki-laki;21.4;100;146;Tidak;Sedang;Diabetes
+36;Perempuan;21.1;101;185;Tidak;Sedang;Hipertensi
+56;Laki-laki;23.7;99;75;Tidak;Tinggi;Hipertensi
+79;Laki-laki;27.6;114;223;Ya;Rendah;Jantung
+20;Laki-laki;30.4;138;144;Tidak;Rendah;Tidak Ada
+62;Perempuan;23.2;138;157;Tidak;Tinggi;Jantung
+30;Perempuan;23.8;178;72;Tidak;Sedang;Diabetes
+67;Laki-laki;19.1;100;121;Tidak;Sedang;Jantung
+45;Perempuan;31.8;151;143;Ya;Sedang;Hipertensi
+79;Perempuan;18.4;125;194;Ya;Sedang;Jantung
+75;Perempuan;28.7;128;134;Tidak;Tinggi;Tidak Ada
+37;Perempuan;22.5;142;121;Ya;Sedang;Hipertensi
+45;Laki-laki;21.6;179;145;Ya;Tinggi;Tidak Ada
+25;Perempuan;19.6;167;211;Ya;Rendah;Jantung
+78;Laki-laki;33.6;145;158;Tidak;Tinggi;Hipertensi
+58;Laki-laki;24.9;90;141;Ya;Sedang;Diabetes
+56;Perempuan;24.1;145;137;Ya;Rendah;Hipertensi
+18;Laki-laki;27.5;93;225;Tidak;Tinggi;Tidak Ada
+20;Perempuan;21.4;119;207;Tidak;Tinggi;Hipertensi
+30;Perempuan;24;101;184;Ya;Tinggi;Diabetes
+45;Laki-laki;24.2;124;126;Ya;Rendah;Diabetes
+79;Laki-laki;22;166;135;Tidak;Tinggi;Diabetes
+74;Laki-laki;28.8;141;159;Tidak;Sedang;Diabetes
+77;Laki-laki;23.1;120;119;Tidak;Rendah;Tidak Ada
+66;Perempuan;17.8;176;83;Tidak;Rendah;Hipertensi
+42;Perempuan;22.8;157;85;Ya;Tinggi;Jantung
+73;Perempuan;25;141;240;Tidak;Sedang;Diabetes
+50;Laki-laki;20.4;169;111;Ya;Rendah;Jantung
+55;Laki-laki;20.7;96;179;Ya;Tinggi;Jantung
+70;Laki-laki;21.8;111;91;Ya;Sedang;Hipertensi
+23;Perempuan;28.9;164;137;Tidak;Tinggi;Jantung
+75;Laki-laki;22.1;145;88;Tidak;Tinggi;Jantung
+61;Perempuan;29.7;147;135;Ya;Rendah;Tidak Ada
+62;Laki-laki;21.5;153;236;Ya;Rendah;Jantung
+49;Perempuan;25.3;101;142;Ya;Tinggi;Hipertensi
+62;Perempuan;22.2;96;216;Ya;Rendah;Jantung
+78;Laki-laki;27;144;213;Ya;Rendah;Hipertensi
+64;Laki-laki;19.5;151;123;Tidak;Sedang;Diabetes
+38;Perempuan;27;179;222;Tidak;Sedang;Jantung
+33;Perempuan;24.5;162;181;Tidak;Tinggi;Jantung
+71;Laki-laki;21.4;166;87;Ya;Tinggi;Jantung
+38;Laki-laki;23.3;144;220;Ya;Tinggi;Diabetes
+28;Perempuan;30.1;125;186;Tidak;Tinggi;Tidak Ada
+77;Laki-laki;24.6;178;154;Tidak;Sedang;Jantung
+54;Perempuan;21.2;113;208;Ya;Rendah;Hipertensi
+53;Perempuan;19.2;133;108;Tidak;Sedang;Tidak Ada
+52;Laki-laki;26;106;174;Tidak;Tinggi;Tidak Ada
+36;Laki-laki;24.8;91;137;Tidak;Tinggi;Tidak Ada
+37;Laki-laki;26.8;102;94;Ya;Sedang;Jantung
+74;Laki-laki;18.2;120;227;Ya;Sedang;Diabetes
+35;Laki-laki;19.3;117;242;Tidak;Tinggi;Diabetes
+64;Perempuan;28.6;149;192;Ya;Rendah;Jantung
+58;Perempuan;25.3;116;190;Tidak;Tinggi;Hipertensi
+66;Laki-laki;26.1;104;130;Tidak;Sedang;Hipertensi
+31;Laki-laki;20.1;168;169;Ya;Tinggi;Hipertensi
+32;Laki-laki;20.1;122;120;Ya;Tinggi;Jantung
+48;Perempuan;28;109;167;Ya;Rendah;Diabetes
+18;Laki-laki;28.2;131;206;Tidak;Tinggi;Jantung
+70;Laki-laki;19.6;101;71;Tidak;Tinggi;Diabetes
+71;Perempuan;18.9;162;74;Tidak;Tinggi;Tidak Ada
+71;Perempuan;23.6;112;249;Ya;Sedang;Jantung
+20;Laki-laki;20.8;161;155;Tidak;Sedang;Diabetes
+33;Laki-laki;20.7;103;202;Tidak;Rendah;Tidak Ada
+40;Laki-laki;19;114;137;Tidak;Tinggi;Tidak Ada
+74;Perempuan;22.1;166;78;Tidak;Sedang;Jantung
+28;Laki-laki;19.4;174;162;Ya;Rendah;Diabetes
+29;Laki-laki;19.6;120;219;Ya;Tinggi;Tidak Ada
+27;Laki-laki;25.2;143;224;Ya;Rendah;Jantung
+49;Perempuan;23.8;94;207;Tidak;Rendah;Tidak Ada
+33;Perempuan;25.9;102;194;Tidak;Rendah;Hipertensi
+25;Laki-laki;17.4;117;130;Tidak;Rendah;Jantung
+55;Laki-laki;24;132;120;Ya;Rendah;Tidak Ada
+29;Perempuan;32.3;178;79;Ya;Rendah;Jantung
+41;Perempuan;22.5;136;203;Ya;Rendah;Jantung
+45;Perempuan;27.3;160;131;Ya;Tinggi;Diabetes
+70;Perempuan;27.3;127;182;Ya;Tinggi;Diabetes
+25;Perempuan;27.5;156;202;Tidak;Rendah;Tidak Ada
+75;Perempuan;24.7;151;191;Ya;Tinggi;Jantung
+45;Perempuan;26.3;128;192;Ya;Rendah;Jantung
+53;Perempuan;26.8;126;132;Ya;Tinggi;Hipertensi
+43;Perempuan;26.5;175;180;Tidak;Sedang;Jantung
+25;Laki-laki;19.5;97;158;Ya;Rendah;Diabetes
+75;Laki-laki;17.2;170;120;Ya;Sedang;Jantung
+77;Laki-laki;17.8;141;247;Ya;Rendah;Diabetes
+67;Perempuan;22.9;122;201;Tidak;Rendah;Hipertensi
+45;Laki-laki;26.4;170;173;Tidak;Sedang;Tidak Ada
+45;Perempuan;19.6;131;192;Ya;Sedang;Diabetes
+54;Perempuan;27.7;165;117;Ya;Sedang;Tidak Ada
+58;Laki-laki;22;116;101;Ya;Rendah;Tidak Ada
+53;Perempuan;22;97;189;Ya;Sedang;Tidak Ada
+44;Laki-laki;20.7;112;248;Tidak;Sedang;Tidak Ada
+71;Laki-laki;16.5;153;249;Ya;Tinggi;Diabetes
+34;Laki-laki;24.9;109;168;Tidak;Tinggi;Hipertensi
+26;Perempuan;30.9;105;143;Ya;Sedang;Jantung
+50;Laki-laki;23.7;106;103;Tidak;Sedang;Diabetes
+70;Perempuan;16.6;169;233;Tidak;Sedang;Hipertensi
+37;Laki-laki;27.1;108;139;Ya;Sedang;Jantung
+30;Laki-laki;17.5;97;240;Tidak;Tinggi;Tidak Ada
+45;Laki-laki;19.2;127;179;Ya;Rendah;Jantung
+65;Perempuan;23;127;85;Tidak;Sedang;Jantung
+46;Perempuan;24.5;142;128;Tidak;Sedang;Hipertensi
+30;Perempuan;20;179;88;Ya;Tinggi;Jantung
+63;Laki-laki;22.9;120;164;Ya;Sedang;Tidak Ada
+52;Laki-laki;26.9;133;182;Tidak;Sedang;Diabetes
+78;Perempuan;27.4;149;110;Tidak;Tinggi;Diabetes
+23;Perempuan;29;165;150;Ya;Sedang;Hipertensi
+35;Perempuan;31.6;106;244;Ya;Sedang;Tidak Ada
+68;Perempuan;27.2;168;172;Ya;Tinggi;Tidak Ada
+22;Perempuan;23.1;162;123;Tidak;Rendah;Jantung
+64;Perempuan;27.4;128;164;Ya;Sedang;Hipertensi
+42;Laki-laki;25.9;131;216;Ya;Sedang;Tidak Ada
+19;Perempuan;26;137;131;Tidak;Rendah;Tidak Ada
+27;Laki-laki;24.7;101;168;Ya;Tinggi;Tidak Ada
+73;Laki-laki;20.4;178;162;Ya;Rendah;Diabetes
+47;Perempuan;19.9;107;134;Ya;Sedang;Diabetes
+67;Perempuan;23.6;168;137;Ya;Rendah;Diabetes
+76;Laki-laki;24.6;95;97;Tidak;Tinggi;Jantung
+62;Perempuan;21.3;132;87;Ya;Sedang;Jantung
+22;Perempuan;25.7;124;95;Ya;Tinggi;Jantung
+72;Laki-laki;32.3;143;173;Ya;Tinggi;Tidak Ada
+73;Laki-laki;17;151;216;Ya;Rendah;Diabetes
+50;Laki-laki;26.3;158;124;Ya;Rendah;Tidak Ada
+71;Perempuan;23.7;171;188;Ya;Tinggi;Tidak Ada
+18;Laki-laki;25.8;105;193;Tidak;Tinggi;Hipertensi
+35;Perempuan;22.3;97;203;Tidak;Sedang;Tidak Ada
+49;Laki-laki;23.4;178;198;Tidak;Tinggi;Jantung
+64;Laki-laki;24.5;179;77;Ya;Tinggi;Diabetes
+66;Laki-laki;22.8;175;120;Ya;Rendah;Diabetes
+28;Perempuan;17.9;120;154;Ya;Tinggi;Tidak Ada
+38;Perempuan;23.1;99;94;Tidak;Tinggi;Jantung
+43;Laki-laki;18.3;145;244;Ya;Rendah;Jantung
+42;Laki-laki;26.6;165;152;Tidak;Sedang;Jantung
+39;Laki-laki;16.5;159;162;Ya;Rendah;Diabetes
+76;Perempuan;28.1;109;186;Ya;Rendah;Jantung
+44;Laki-laki;25.7;94;207;Tidak;Tinggi;Jantung
+66;Perempuan;25.7;112;125;Tidak;Tinggi;Tidak Ada
+30;Laki-laki;15.3;98;81;Tidak;Sedang;Hipertensi
+50;Laki-laki;22.7;147;230;Tidak;Tinggi;Jantung
+51;Laki-laki;28.6;148;189;Tidak;Sedang;Tidak Ada
+58;Laki-laki;21.9;169;140;Tidak;Sedang;Tidak Ada
+52;Laki-laki;19.7;143;86;Ya;Sedang;Jantung
+18;Laki-laki;21.5;135;191;Tidak;Sedang;Hipertensi
+38;Perempuan;23.7;111;193;Ya;Tinggi;Diabetes
+65;Laki-laki;20.6;153;79;Ya;Rendah;Hipertensi
+72;Perempuan;28.9;97;100;Ya;Rendah;Jantung
+23;Laki-laki;23.7;109;129;Ya;Tinggi;Hipertensi
+45;Laki-laki;21.8;140;139;Ya;Tinggi;Tidak Ada
+34;Perempuan;18.8;167;86;Tidak;Sedang;Tidak Ada
+22;Laki-laki;25.9;128;119;Tidak;Tinggi;Hipertensi
+48;Perempuan;25.8;126;106;Tidak;Rendah;Diabetes
+22;Perempuan;20.8;139;187;Ya;Tinggi;Hipertensi
+55;Laki-laki;15.1;123;226;Tidak;Tinggi;Jantung
+20;Perempuan;25.6;164;229;Ya;Sedang;Diabetes
+70;Perempuan;23.3;122;149;Ya;Sedang;Hipertensi
+40;Laki-laki;25.3;120;80;Ya;Sedang;Hipertensi
+54;Perempuan;31.8;143;203;Ya;Sedang;Diabetes
+70;Laki-laki;23.9;133;192;Tidak;Rendah;Hipertensi
+54;Laki-laki;21.9;123;104;Tidak;Tinggi;Jantung
+27;Laki-laki;19.4;160;102;Tidak;Tinggi;Tidak Ada
+27;Laki-laki;22.8;151;87;Tidak;Sedang;Jantung
+36;Perempuan;24.6;112;234;Tidak;Rendah;Hipertensi
+34;Laki-laki;24.2;135;82;Ya;Rendah;Tidak Ada
+38;Laki-laki;30.9;145;159;Tidak;Tinggi;Diabetes
+31;Perempuan;26;96;179;Ya;Sedang;Jantung
+26;Laki-laki;23.5;178;70;Ya;Tinggi;Diabetes
+63;Laki-laki;21.2;150;132;Ya;Tinggi;Tidak Ada
+18;Perempuan;25.1;92;103;Tidak;Rendah;Hipertensi
+68;Perempuan;20.4;127;172;Ya;Rendah;Tidak Ada
+62;Perempuan;24.7;173;79;Ya;Tinggi;Tidak Ada
+30;Perempuan;25.9;123;197;Tidak;Sedang;Diabetes
+21;Perempuan;23.1;133;76;Ya;Sedang;Jantung
+79;Perempuan;21.5;119;125;Ya;Tinggi;Tidak Ada
+18;Perempuan;15.3;106;149;Ya;Tinggi;Hipertensi
+66;Laki-laki;28.6;148;234;Tidak;Sedang;Tidak Ada
+57;Perempuan;25.6;99;226;Ya;Sedang;Diabetes
+49;Perempuan;25.7;173;81;Ya;Sedang;Jantung
+51;Perempuan;17.8;107;214;Tidak;Tinggi;Hipertensi
+45;Laki-laki;29.5;134;117;Tidak;Rendah;Diabetes
+48;Laki-laki;22.1;148;95;Ya;Sedang;Tidak Ada
+25;Perempuan;22.8;151;181;Tidak;Sedang;Tidak Ada
+56;Perempuan;19.7;148;191;Tidak;Sedang;Jantung
+43;Perempuan;16.9;138;81;Tidak;Tinggi;Diabetes
+75;Laki-laki;28.6;152;218;Tidak;Rendah;Diabetes
+51;Laki-laki;29.1;176;111;Tidak;Rendah;Jantung
+71;Perempuan;23.3;121;130;Tidak;Sedang;Hipertensi
+71;Laki-laki;21.3;99;127;Tidak;Tinggi;Diabetes
+20;Perempuan;22.5;100;103;Ya;Rendah;Jantung
+76;Laki-laki;22.6;159;76;Tidak;Tinggi;Diabetes
+67;Laki-laki;19.2;151;178;Tidak;Rendah;Jantung
+29;Perempuan;22.8;136;104;Tidak;Sedang;Tidak Ada
+18;Perempuan;24.6;123;84;Ya;Tinggi;Tidak Ada
+71;Perempuan;28.1;106;94;Tidak;Sedang;Diabetes
+61;Perempuan;24.1;143;128;Tidak;Rendah;Diabetes
+22;Laki-laki;17.7;165;148;Ya;Rendah;Tidak Ada
+47;Laki-laki;25.4;174;155;Tidak;Sedang;Hipertensi
+47;Laki-laki;23;129;203;Ya;Rendah;Jantung
+76;Perempuan;29.5;108;249;Ya;Sedang;Hipertensi
+74;Laki-laki;29.7;156;157;Tidak;Sedang;Hipertensi
+34;Perempuan;29.9;171;218;Ya;Sedang;Hipertensi
+65;Laki-laki;21.8;142;140;Tidak;Rendah;Tidak Ada
+64;Perempuan;32;153;190;Tidak;Tinggi;Diabetes
+40;Perempuan;25.4;172;162;Ya;Sedang;Hipertensi
+32;Laki-laki;30.5;136;165;Ya;Tinggi;Tidak Ada
+54;Perempuan;22;95;101;Tidak;Rendah;Jantung
+38;Perempuan;22.8;105;122;Tidak;Rendah;Diabetes
+31;Laki-laki;25.1;161;128;Ya;Tinggi;Jantung
+19;Perempuan;24.6;107;138;Tidak;Sedang;Hipertensi
+28;Perempuan;29;141;201;Tidak;Rendah;Diabetes
+68;Perempuan;23.1;137;155;Tidak;Sedang;Hipertensi
+56;Laki-laki;28.7;132;87;Ya;Sedang;Diabetes
+55;Laki-laki;26.9;128;150;Tidak;Tinggi;Hipertensi
+77;Perempuan;23.1;138;183;Tidak;Rendah;Jantung
+51;Laki-laki;26.6;101;93;Tidak;Tinggi;Jantung
+55;Perempuan;22.1;99;135;Ya;Rendah;Hipertensi
+67;Perempuan;33.4;160;210;Ya;Tinggi;Diabetes
+51;Perempuan;13.3;144;131;Ya;Rendah;Jantung
+35;Perempuan;26.7;90;123;Tidak;Rendah;Diabetes
+47;Perempuan;16.9;138;212;Ya;Rendah;Diabetes
+32;Laki-laki;23.1;125;200;Tidak;Sedang;Jantung
+44;Perempuan;23.7;110;106;Ya;Sedang;Tidak Ada
+68;Laki-laki;30;126;106;Tidak;Tinggi;Tidak Ada
+51;Laki-laki;21.2;113;200;Ya;Tinggi;Diabetes
+69;Perempuan;29.2;144;104;Tidak;Rendah;Jantung
+74;Perempuan;19.3;114;249;Tidak;Rendah;Tidak Ada
+55;Laki-laki;29.4;96;193;Ya;Sedang;Hipertensi
+50;Laki-laki;22.1;170;225;Tidak;Sedang;Diabetes
+41;Laki-laki;24.3;160;87;Ya;Sedang;Tidak Ada
+32;Perempuan;22.7;160;191;Ya;Tinggi;Jantung
+77;Laki-laki;29.1;113;233;Tidak;Sedang;Jantung
+47;Perempuan;28.4;100;230;Tidak;Tinggi;Diabetes
+72;Perempuan;25.8;162;223;Ya;Sedang;Jantung
+59;Perempuan;19.4;101;117;Ya;Sedang;Hipertensi
+68;Laki-laki;21.1;124;237;Ya;Rendah;Hipertensi
+34;Perempuan;19.9;152;86;Tidak;Tinggi;Tidak Ada
+22;Perempuan;15;157;237;Ya;Sedang;Jantung
+46;Perempuan;29;146;204;Tidak;Rendah;Hipertensi
+21;Perempuan;22.7;102;126;Tidak;Tinggi;Diabetes
+27;Perempuan;22.6;112;77;Ya;Tinggi;Jantung
+73;Laki-laki;30;172;197;Ya;Sedang;Tidak Ada
+34;Perempuan;22.1;128;186;Tidak;Tinggi;Diabetes
+27;Perempuan;20.6;177;125;Tidak;Rendah;Diabetes
+34;Laki-laki;23.1;169;195;Tidak;Rendah;Diabetes
+77;Perempuan;19.5;101;228;Tidak;Tinggi;Hipertensi
+37;Laki-laki;25.4;123;128;Ya;Rendah;Diabetes
+41;Perempuan;22.5;160;127;Tidak;Tinggi;Hipertensi
+22;Laki-laki;22;164;209;Ya;Rendah;Diabetes
+51;Laki-laki;21.6;120;245;Ya;Tinggi;Hipertensi
+23;Perempuan;23.6;151;228;Ya;Tinggi;Jantung
+70;Perempuan;24.3;102;177;Tidak;Tinggi;Hipertensi
+19;Perempuan;21.9;120;143;Tidak;Rendah;Hipertensi
+30;Laki-laki;22.6;91;236;Ya;Tinggi;Jantung
+79;Laki-laki;23.7;104;217;Ya;Tinggi;Diabetes
+60;Laki-laki;23.3;146;170;Ya;Sedang;Jantung
+60;Perempuan;24.1;164;117;Ya;Sedang;Diabetes
+65;Laki-laki;21.3;123;140;Tidak;Tinggi;Hipertensi
+28;Laki-laki;28;157;185;Ya;Sedang;Diabetes
+68;Perempuan;24.4;164;191;Tidak;Tinggi;Hipertensi
+64;Laki-laki;22;118;147;Tidak;Sedang;Diabetes
+74;Laki-laki;25.4;155;98;Tidak;Rendah;Hipertensi
+40;Perempuan;23.7;105;162;Tidak;Rendah;Hipertensi
+72;Laki-laki;17.1;128;142;Ya;Tinggi;Tidak Ada
+33;Perempuan;25.4;166;169;Tidak;Tinggi;Diabetes
+48;Perempuan;19.9;126;245;Ya;Rendah;Diabetes
+28;Perempuan;27.7;170;143;Tidak;Rendah;Tidak Ada
+71;Perempuan;23;110;164;Ya;Sedang;Hipertensi
+33;Perempuan;27.1;133;86;Ya;Tinggi;Hipertensi
+25;Laki-laki;21.5;108;206;Ya;Rendah;Tidak Ada
+21;Laki-laki;24.3;160;166;Ya;Rendah;Tidak Ada
+57;Perempuan;28.8;97;231;Ya;Tinggi;Jantung
+21;Perempuan;22.9;166;242;Tidak;Sedang;Hipertensi
+73;Laki-laki;21.6;155;78;Ya;Sedang;Jantung
+42;Perempuan;26.6;130;204;Tidak;Sedang;Diabetes
+20;Perempuan;26.5;164;213;Ya;Sedang;Jantung
+49;Perempuan;21.8;177;88;Tidak;Rendah;Tidak Ada
+20;Laki-laki;16.1;159;203;Tidak;Tinggi;Tidak Ada
+44;Laki-laki;21.6;150;183;Tidak;Tinggi;Tidak Ada
+46;Perempuan;26.7;115;208;Ya;Rendah;Tidak Ada
+49;Perempuan;20.9;160;194;Tidak;Rendah;Jantung
+67;Laki-laki;24;172;130;Ya;Rendah;Jantung
+78;Laki-laki;21.4;159;111;Ya;Tinggi;Jantung
+75;Perempuan;16.3;118;82;Tidak;Tinggi;Tidak Ada
+68;Perempuan;21.3;155;209;Tidak;Tinggi;Tidak Ada
+36;Laki-laki;26.7;108;154;Ya;Sedang;Hipertensi
+38;Laki-laki;14.5;157;89;Ya;Rendah;Hipertensi
+22;Laki-laki;25;147;119;Ya;Rendah;Tidak Ada
+35;Perempuan;19.3;159;233;Ya;Rendah;Hipertensi
+45;Laki-laki;26.4;146;161;Ya;Tinggi;Diabetes
+59;Perempuan;26.9;126;157;Ya;Rendah;Diabetes
+78;Laki-laki;23.3;150;138;Tidak;Rendah;Tidak Ada
+39;Laki-laki;23.3;119;106;Ya;Sedang;Jantung
+38;Laki-laki;20.8;160;209;Ya;Tinggi;Diabetes
+23;Laki-laki;18.6;162;168;Tidak;Rendah;Diabetes
+18;Perempuan;30.8;114;194;Tidak;Tinggi;Jantung
+22;Perempuan;20.5;154;237;Tidak;Tinggi;Hipertensi
+58;Laki-laki;30.3;95;123;Ya;Tinggi;Jantung
+29;Perempuan;20.6;107;199;Tidak;Sedang;Hipertensi
+43;Laki-laki;26.1;99;247;Tidak;Tinggi;Hipertensi
+63;Laki-laki;19.4;100;110;Ya;Tinggi;Jantung
+51;Laki-laki;26.1;154;114;Ya;Tinggi;Hipertensi
+66;Laki-laki;22.7;166;172;Ya;Rendah;Diabetes
+31;Perempuan;22.7;173;175;Ya;Sedang;Tidak Ada
+43;Laki-laki;26.4;154;206;Tidak;Rendah;Hipertensi
+62;Laki-laki;22.1;141;197;Ya;Sedang;Diabetes
+44;Perempuan;18.3;156;155;Tidak;Sedang;Jantung
+26;Laki-laki;27;171;116;Ya;Tinggi;Hipertensi
+43;Laki-laki;19.4;167;74;Tidak;Tinggi;Diabetes
+74;Laki-laki;26.1;120;70;Ya;Rendah;Hipertensi
+64;Perempuan;27.9;106;113;Ya;Sedang;Jantung
+74;Laki-laki;22.5;144;219;Ya;Tinggi;Tidak Ada
+39;Perempuan;28.7;125;107;Tidak;Tinggi;Hipertensi
+64;Laki-laki;25.9;115;88;Tidak;Tinggi;Tidak Ada
+73;Laki-laki;21.2;142;228;Tidak;Tinggi;Hipertensi
+47;Perempuan;29.6;106;184;Ya;Rendah;Hipertensi
+60;Laki-laki;19.4;175;156;Tidak;Rendah;Jantung
+65;Laki-laki;22.5;114;239;Ya;Tinggi;Hipertensi
+78;Perempuan;23.2;91;192;Ya;Tinggi;Diabetes
+34;Perempuan;26.4;175;151;Ya;Tinggi;Diabetes
+43;Perempuan;28.5;94;223;Tidak;Tinggi;Tidak Ada
+53;Perempuan;28.2;93;210;Ya;Tinggi;Tidak Ada
+18;Perempuan;24.9;125;127;Tidak;Sedang;Diabetes
+25;Laki-laki;22.9;95;215;Ya;Sedang;Tidak Ada
+66;Perempuan;16.7;110;136;Ya;Sedang;Tidak Ada
+52;Laki-laki;18.7;166;191;Ya;Sedang;Diabetes
+78;Laki-laki;31.1;178;156;Tidak;Tinggi;Diabetes
+69;Laki-laki;16.7;115;200;Tidak;Sedang;Diabetes
+32;Perempuan;20.9;144;124;Ya;Sedang;Jantung
+64;Perempuan;28.6;128;158;Tidak;Rendah;Jantung
+73;Laki-laki;24.8;173;127;Tidak;Sedang;Diabetes
+39;Perempuan;27.7;122;132;Ya;Sedang;Hipertensi
+31;Perempuan;26.2;103;160;Ya;Tinggi;Diabetes
+43;Perempuan;29.9;145;121;Tidak;Sedang;Jantung
+45;Perempuan;25.2;170;195;Ya;Sedang;Tidak Ada
+40;Laki-laki;26.7;110;93;Ya;Tinggi;Hipertensi
+31;Laki-laki;21.1;135;141;Tidak;Sedang;Hipertensi
+41;Perempuan;26.3;105;78;Tidak;Tinggi;Tidak Ada
+19;Laki-laki;22.4;105;179;Ya;Sedang;Hipertensi
+62;Perempuan;22.2;173;234;Tidak;Rendah;Tidak Ada
+43;Perempuan;27.6;118;163;Tidak;Rendah;Jantung
+31;Laki-laki;27.6;97;186;Ya;Sedang;Hipertensi
+76;Laki-laki;30.8;177;152;Ya;Rendah;Hipertensi
+73;Laki-laki;30.5;92;149;Ya;Tinggi;Tidak Ada
+68;Perempuan;27.7;178;221;Ya;Sedang;Tidak Ada
+24;Laki-laki;17.1;108;218;Tidak;Tinggi;Jantung
+20;Perempuan;31.3;155;169;Tidak;Rendah;Tidak Ada
+64;Laki-laki;27.7;168;109;Ya;Tinggi;Tidak Ada
+40;Laki-laki;20.9;175;172;Ya;Rendah;Jantung
+63;Perempuan;26.9;163;131;Ya;Rendah;Diabetes
+60;Perempuan;19.9;171;138;Ya;Rendah;Diabetes
+64;Perempuan;26.5;111;211;Tidak;Tinggi;Tidak Ada
+77;Perempuan;18.7;135;178;Tidak;Rendah;Jantung
+62;Perempuan;20.8;102;239;Ya;Sedang;Diabetes
+35;Perempuan;26.8;122;247;Ya;Rendah;Jantung
+75;Perempuan;28.3;94;73;Tidak;Sedang;Tidak Ada
+55;Perempuan;25.3;179;141;Tidak;Sedang;Tidak Ada
+52;Laki-laki;22.9;166;86;Tidak;Sedang;Jantung
+68;Perempuan;15.5;116;183;Tidak;Sedang;Hipertensi
+32;Perempuan;23.2;167;154;Ya;Tinggi;Tidak Ada
+42;Laki-laki;26.1;113;126;Tidak;Sedang;Tidak Ada
+72;Perempuan;22.7;156;176;Tidak;Rendah;Tidak Ada
+54;Laki-laki;23.9;152;117;Tidak;Sedang;Tidak Ada
+45;Laki-laki;23.3;137;241;Ya;Rendah;Jantung
+27;Perempuan;22.7;152;242;Ya;Tinggi;Jantung
+56;Laki-laki;24.3;167;186;Tidak;Sedang;Jantung
+74;Perempuan;22.9;101;230;Tidak;Rendah;Jantung
+34;Laki-laki;29.8;117;100;Ya;Tinggi;Hipertensi
+56;Laki-laki;15.2;133;181;Ya;Tinggi;Jantung
+39;Laki-laki;21.8;132;116;Tidak;Rendah;Jantung
+43;Perempuan;20.5;106;203;Ya;Sedang;Tidak Ada
+79;Perempuan;24.9;129;177;Tidak;Tinggi;Hipertensi
+61;Laki-laki;24.3;138;141;Ya;Rendah;Tidak Ada
+42;Laki-laki;30.5;174;140;Tidak;Sedang;Hipertensi
+34;Perempuan;31.8;146;231;Tidak;Tinggi;Diabetes
+30;Perempuan;20.9;176;177;Ya;Rendah;Hipertensi
+37;Laki-laki;24;173;122;Tidak;Tinggi;Hipertensi
+42;Laki-laki;24.8;153;211;Ya;Tinggi;Tidak Ada
+21;Perempuan;20.8;164;85;Ya;Rendah;Hipertensi
+27;Perempuan;26.5;146;240;Ya;Tinggi;Hipertensi
+20;Perempuan;23;163;185;Tidak;Rendah;Tidak Ada
+58;Perempuan;19.7;163;142;Tidak;Sedang;Diabetes
+62;Perempuan;22.9;159;143;Tidak;Rendah;Diabetes
+35;Laki-laki;20;177;150;Ya;Sedang;Diabetes
+64;Perempuan;28.1;165;81;Tidak;Tinggi;Hipertensi
+53;Laki-laki;31.6;132;197;Tidak;Rendah;Tidak Ada
+64;Perempuan;25;112;139;Tidak;Rendah;Diabetes
+39;Laki-laki;24.4;116;216;Tidak;Rendah;Diabetes
+51;Perempuan;24.6;147;110;Ya;Rendah;Diabetes
+64;Perempuan;28.7;126;226;Tidak;Sedang;Diabetes
+25;Laki-laki;28.6;95;128;Ya;Sedang;Tidak Ada
+57;Laki-laki;23.5;154;158;Ya;Tinggi;Diabetes
+66;Perempuan;25;95;93;Ya;Tinggi;Hipertensi
+61;Perempuan;26.6;139;213;Ya;Tinggi;Hipertensi
+36;Perempuan;19.4;111;249;Tidak;Tinggi;Tidak Ada
+59;Perempuan;28.9;177;149;Tidak;Rendah;Jantung
+58;Perempuan;30.9;114;203;Tidak;Sedang;Diabetes
+54;Laki-laki;28.7;168;234;Ya;Sedang;Diabetes
+23;Laki-laki;19;179;201;Tidak;Sedang;Hipertensi
+69;Perempuan;16.1;161;161;Ya;Sedang;Tidak Ada
+43;Laki-laki;26.8;140;235;Tidak;Tinggi;Jantung
+51;Laki-laki;21;177;238;Tidak;Rendah;Hipertensi
+76;Laki-laki;25.1;137;161;Tidak;Sedang;Jantung
+73;Perempuan;30.1;159;150;Ya;Rendah;Tidak Ada
+76;Laki-laki;21.4;154;211;Tidak;Rendah;Tidak Ada
+62;Perempuan;22.5;149;140;Ya;Rendah;Tidak Ada
+23;Laki-laki;25.1;135;248;Ya;Rendah;Hipertensi
+54;Perempuan;18.8;125;134;Ya;Sedang;Tidak Ada
+74;Laki-laki;21;147;121;Tidak;Sedang;Hipertensi
+50;Perempuan;24.1;165;99;Tidak;Sedang;Hipertensi
+70;Perempuan;22.8;127;168;Ya;Tinggi;Diabetes
+39;Laki-laki;26.4;100;227;Ya;Sedang;Hipertensi
+38;Perempuan;35.1;101;167;Ya;Tinggi;Hipertensi
+23;Perempuan;24.4;131;111;Ya;Tinggi;Diabetes
+23;Perempuan;20.6;128;208;Ya;Tinggi;Jantung
+72;Perempuan;29.7;160;96;Tidak;Sedang;Diabetes
+65;Perempuan;17.6;100;221;Tidak;Sedang;Diabetes
+21;Perempuan;18.4;125;236;Tidak;Sedang;Tidak Ada
+47;Perempuan;21.6;141;141;Ya;Tinggi;Tidak Ada
+28;Perempuan;22.9;120;87;Ya;Tinggi;Diabetes
+79;Laki-laki;21.5;122;146;Tidak;Rendah;Tidak Ada
+79;Laki-laki;23.9;102;114;Tidak;Tinggi;Diabetes
+47;Perempuan;25.1;107;184;Ya;Tinggi;Tidak Ada
+48;Perempuan;28.3;130;156;Ya;Sedang;Hipertensi
+41;Laki-laki;24.4;147;209;Ya;Rendah;Tidak Ada
+72;Laki-laki;21.8;145;246;Tidak;Rendah;Tidak Ada
+26;Laki-laki;28.1;113;228;Ya;Rendah;Hipertensi
+72;Perempuan;20.7;162;161;Ya;Sedang;Diabetes
+20;Laki-laki;17.5;120;91;Ya;Rendah;Tidak Ada
+68;Perempuan;28.8;144;241;Tidak;Rendah;Tidak Ada
+48;Perempuan;28.6;99;161;Ya;Sedang;Hipertensi
+57;Laki-laki;20.8;149;146;Tidak;Rendah;Hipertensi
+54;Perempuan;22.4;91;94;Ya;Tinggi;Hipertensi
+53;Perempuan;20.3;104;177;Ya;Tinggi;Jantung
+41;Perempuan;25.3;92;248;Tidak;Tinggi;Hipertensi
+48;Perempuan;30.9;132;204;Ya;Tinggi;Diabetes
+23;Laki-laki;26.8;120;178;Tidak;Tinggi;Tidak Ada
+19;Laki-laki;28.1;159;203;Ya;Tinggi;Tidak Ada
+37;Perempuan;27.3;156;93;Tidak;Tinggi;Jantung
+45;Perempuan;24;145;88;Ya;Tinggi;Tidak Ada
+28;Laki-laki;28.3;152;152;Tidak;Tinggi;Tidak Ada
+21;Perempuan;27;164;184;Tidak;Sedang;Diabetes
+32;Laki-laki;29.8;104;78;Ya;Sedang;Tidak Ada
+23;Perempuan;22.2;99;181;Tidak;Tinggi;Diabetes
+71;Perempuan;17;127;233;Ya;Sedang;Jantung
+66;Laki-laki;28.2;136;171;Tidak;Sedang;Diabetes
+47;Laki-laki;25.4;146;237;Ya;Tinggi;Hipertensi
+73;Laki-laki;22.8;139;221;Ya;Tinggi;Hipertensi
+55;Laki-laki;23;160;117;Ya;Sedang;Jantung
+68;Perempuan;34.2;104;138;Ya;Tinggi;Tidak Ada
+79;Laki-laki;21.4;107;239;Tidak;Tinggi;Diabetes
+74;Perempuan;20.6;171;188;Ya;Tinggi;Hipertensi
+19;Laki-laki;24.3;177;114;Ya;Tinggi;Diabetes
+32;Laki-laki;28.7;91;194;Ya;Sedang;Hipertensi
+28;Perempuan;33.1;173;83;Ya;Rendah;Diabetes
+25;Laki-laki;26.6;132;226;Ya;Sedang;Tidak Ada
+43;Laki-laki;18.9;115;203;Tidak;Rendah;Jantung
+68;Laki-laki;31.9;160;204;Ya;Rendah;Tidak Ada
+62;Laki-laki;23.9;127;106;Tidak;Rendah;Diabetes
+61;Perempuan;20.6;131;122;Tidak;Sedang;Hipertensi
+22;Perempuan;19.7;94;87;Ya;Sedang;Hipertensi
+23;Laki-laki;27.3;100;107;Ya;Sedang;Jantung
+43;Laki-laki;25;154;198;Tidak;Sedang;Tidak Ada
+71;Laki-laki;25.4;123;113;Tidak;Sedang;Tidak Ada
+21;Perempuan;29.1;90;116;Tidak;Rendah;Tidak Ada
+36;Perempuan;20.8;172;104;Ya;Sedang;Hipertensi
+37;Perempuan;29.5;91;129;Tidak;Rendah;Jantung
+50;Perempuan;21.9;174;159;Tidak;Sedang;Hipertensi
+37;Laki-laki;32.7;109;121;Ya;Sedang;Tidak Ada
+66;Laki-laki;26.4;150;77;Tidak;Tinggi;Diabetes
+29;Laki-laki;20.3;176;176;Ya;Rendah;Hipertensi
+64;Perempuan;15.9;110;238;Tidak;Sedang;Jantung
+18;Laki-laki;27.2;177;200;Ya;Sedang;Tidak Ada
+43;Perempuan;22.5;157;211;Tidak;Sedang;Diabetes
+31;Perempuan;23.4;101;165;Ya;Tinggi;Hipertensi
+55;Laki-laki;27.1;111;95;Ya;Rendah;Diabetes
+54;Laki-laki;28;109;180;Tidak;Sedang;Diabetes
+79;Laki-laki;28.9;171;192;Ya;Sedang;Jantung
+28;Perempuan;19.3;90;237;Tidak;Sedang;Hipertensi
+53;Perempuan;29.7;119;120;Ya;Tinggi;Jantung
+30;Laki-laki;21.7;113;192;Ya;Sedang;Tidak Ada
+60;Laki-laki;15;103;74;Ya;Rendah;Diabetes
+20;Perempuan;19.3;125;146;Ya;Rendah;Jantung
+50;Laki-laki;24.9;158;229;Ya;Rendah;Jantung
+23;Perempuan;20.1;164;70;Ya;Rendah;Tidak Ada
+67;Perempuan;23.6;113;80;Ya;Sedang;Hipertensi
+73;Laki-laki;25.4;149;77;Tidak;Tinggi;Jantung
+27;Laki-laki;23.3;144;222;Tidak;Tinggi;Diabetes
+22;Laki-laki;22;166;237;Ya;Tinggi;Diabetes
+40;Laki-laki;19;169;101;Ya;Sedang;Diabetes
+27;Perempuan;24.1;113;97;Ya;Tinggi;Diabetes
+61;Perempuan;15.7;166;200;Tidak;Rendah;Jantung
+19;Perempuan;21.3;113;197;Ya;Sedang;Diabetes
+30;Laki-laki;20.3;143;131;Tidak;Tinggi;Jantung
+57;Perempuan;23;115;96;Ya;Rendah;Hipertensi
+19;Laki-laki;23.1;155;114;Ya;Rendah;Diabetes
+37;Laki-laki;27.8;169;174;Ya;Sedang;Hipertensi
+18;Laki-laki;30.3;127;161;Ya;Sedang;Jantung
+54;Laki-laki;19.5;154;94;Ya;Tinggi;Tidak Ada
+26;Laki-laki;32;164;113;Tidak;Tinggi;Hipertensi
+34;Laki-laki;20.9;140;243;Ya;Tinggi;Diabetes
+26;Perempuan;24.7;124;211;Tidak;Sedang;Tidak Ada
+28;Laki-laki;26;132;205;Tidak;Tinggi;Hipertensi
+32;Perempuan;33.8;118;245;Ya;Tinggi;Jantung
+41;Perempuan;21.8;126;211;Ya;Rendah;Jantung
+55;Laki-laki;16.8;170;149;Ya;Rendah;Jantung
+72;Laki-laki;30;147;151;Tidak;Rendah;Hipertensi
+52;Laki-laki;20.7;143;204;Tidak;Tinggi;Jantung
+47;Perempuan;22.6;128;157;Tidak;Sedang;Hipertensi
+48;Laki-laki;19.5;131;246;Ya;Rendah;Diabetes
+66;Perempuan;22.6;117;196;Tidak;Sedang;Diabetes
+22;Laki-laki;20.6;118;124;Tidak;Tinggi;Hipertensi
+79;Laki-laki;26.7;132;210;Tidak;Tinggi;Hipertensi
+77;Perempuan;24.3;92;125;Ya;Rendah;Tidak Ada
+61;Perempuan;21.3;99;84;Tidak;Sedang;Jantung
+67;Laki-laki;28;148;127;Tidak;Rendah;Diabetes
+31;Perempuan;25;103;232;Ya;Tinggi;Diabetes
+70;Perempuan;16.6;165;157;Ya;Sedang;Tidak Ada
+73;Perempuan;27.7;136;166;Ya;Rendah;Hipertensi
+28;Perempuan;24.7;131;213;Tidak;Tinggi;Hipertensi
+26;Perempuan;29.6;121;77;Tidak;Rendah;Tidak Ada
+51;Laki-laki;24.5;121;242;Tidak;Sedang;Jantung
+29;Laki-laki;20.8;131;109;Ya;Sedang;Hipertensi
+52;Perempuan;23.2;121;83;Tidak;Sedang;Hipertensi
+52;Laki-laki;27.2;115;122;Ya;Sedang;Jantung
+18;Laki-laki;20.9;90;196;Ya;Sedang;Jantung
+57;Perempuan;22.2;145;224;Tidak;Rendah;Tidak Ada
+39;Laki-laki;23.1;91;244;Tidak;Rendah;Tidak Ada
+77;Perempuan;19.4;170;149;Tidak;Rendah;Tidak Ada
+46;Perempuan;21;119;184;Ya;Rendah;Hipertensi
+25;Laki-laki;24.7;160;203;Ya;Tinggi;Tidak Ada
+28;Perempuan;28.8;141;124;Tidak;Tinggi;Hipertensi
+58;Perempuan;25.3;98;113;Ya;Rendah;Diabetes
+54;Perempuan;23.8;111;87;Tidak;Tinggi;Jantung
+31;Perempuan;20.7;123;85;Tidak;Tinggi;Jantung
+77;Perempuan;28.4;138;81;Tidak;Sedang;Diabetes
+47;Laki-laki;25.7;90;217;Ya;Rendah;Tidak Ada
+52;Laki-laki;21.2;162;114;Ya;Tinggi;Hipertensi
+38;Perempuan;27.6;173;162;Tidak;Tinggi;Hipertensi
+54;Perempuan;26.2;142;91;Tidak;Rendah;Hipertensi
+22;Laki-laki;20.7;172;166;Ya;Sedang;Jantung
+36;Perempuan;23.6;129;116;Tidak;Rendah;Tidak Ada
+76;Laki-laki;22;134;98;Ya;Sedang;Hipertensi
+31;Perempuan;34.5;157;114;Tidak;Tinggi;Hipertensi
+43;Perempuan;26.1;98;146;Ya;Sedang;Hipertensi
+79;Perempuan;24.7;111;78;Tidak;Sedang;Diabetes
+21;Perempuan;25.9;107;93;Ya;Rendah;Hipertensi
+42;Perempuan;29.5;165;84;Tidak;Tinggi;Diabetes
+62;Perempuan;23.7;132;233;Ya;Rendah;Hipertensi
+59;Perempuan;21.6;128;82;Ya;Rendah;Hipertensi
+42;Laki-laki;27.4;162;160;Ya;Tinggi;Hipertensi
+35;Laki-laki;23.3;95;241;Ya;Rendah;Diabetes
+57;Laki-laki;19.7;172;170;Tidak;Rendah;Hipertensi
+25;Perempuan;18.9;137;140;Ya;Sedang;Tidak Ada
+56;Perempuan;30.1;96;191;Ya;Rendah;Hipertensi
+57;Perempuan;24.5;169;145;Tidak;Tinggi;Diabetes
+31;Perempuan;21.6;158;233;Ya;Rendah;Diabetes
+49;Perempuan;23.1;105;185;Tidak;Sedang;Tidak Ada
+68;Perempuan;27.2;90;130;Ya;Rendah;Jantung
+78;Perempuan;22.8;126;237;Ya;Rendah;Tidak Ada
+55;Laki-laki;18.2;172;195;Ya;Rendah;Tidak Ada
+50;Perempuan;25.3;126;224;Ya;Sedang;Diabetes
+40;Laki-laki;28.8;170;70;Ya;Tinggi;Hipertensi
+32;Laki-laki;28.6;153;231;Ya;Tinggi;Hipertensi
+50;Perempuan;21.8;179;137;Tidak;Sedang;Jantung
+42;Perempuan;29.1;175;157;Tidak;Sedang;Jantung
+34;Laki-laki;24.9;151;90;Ya;Rendah;Jantung
+50;Laki-laki;29;161;230;Ya;Tinggi;Jantung
+64;Perempuan;26.3;150;204;Tidak;Sedang;Tidak Ada
+72;Perempuan;17.9;122;72;Tidak;Tinggi;Tidak Ada
+19;Laki-laki;31;155;120;Ya;Rendah;Hipertensi
+31;Perempuan;24.2;119;148;Ya;Sedang;Tidak Ada
+70;Perempuan;26.3;109;164;Ya;Tinggi;Hipertensi
+57;Perempuan;18.6;149;192;Ya;Tinggi;Hipertensi
+57;Laki-laki;26;171;75;Ya;Rendah;Hipertensi
+68;Laki-laki;28.4;163;226;Ya;Sedang;Hipertensi
+56;Laki-laki;31.7;113;86;Tidak;Tinggi;Diabetes
+68;Perempuan;29.6;93;186;Ya;Rendah;Hipertensi
+23;Perempuan;26.2;126;129;Ya;Tinggi;Tidak Ada
+23;Laki-laki;17.8;93;219;Tidak;Rendah;Tidak Ada
+20;Laki-laki;24.5;166;221;Tidak;Tinggi;Tidak Ada
+24;Laki-laki;21.6;178;194;Tidak;Tinggi;Tidak Ada
+68;Perempuan;24.9;166;150;Tidak;Rendah;Diabetes
+25;Laki-laki;19.1;107;154;Ya;Sedang;Jantung
+59;Laki-laki;23.2;177;120;Tidak;Rendah;Jantung
+69;Perempuan;21.9;155;247;Tidak;Sedang;Hipertensi
+32;Perempuan;21.8;137;208;Ya;Tinggi;Hipertensi
+64;Perempuan;21.8;122;140;Tidak;Tinggi;Tidak Ada
+46;Laki-laki;23.5;147;239;Tidak;Rendah;Tidak Ada
+50;Perempuan;25.1;172;108;Ya;Rendah;Jantung
+69;Perempuan;14;162;138;Ya;Sedang;Jantung
+47;Laki-laki;14.5;117;117;Ya;Sedang;Tidak Ada
+56;Perempuan;22.6;124;194;Ya;Sedang;Hipertensi
+44;Laki-laki;23.2;99;126;Ya;Rendah;Diabetes
+53;Laki-laki;24.8;154;90;Ya;Tinggi;Diabetes
+46;Perempuan;21.1;131;151;Ya;Rendah;Jantung
+55;Perempuan;24;174;168;Tidak;Tinggi;Jantung
+74;Perempuan;24.5;98;217;Tidak;Rendah;Jantung
+50;Perempuan;21.1;149;84;Ya;Rendah;Diabetes
+78;Perempuan;28.1;104;138;Tidak;Sedang;Diabetes
+54;Perempuan;24.7;146;248;Ya;Tinggi;Tidak Ada
+44;Laki-laki;26.2;158;145;Tidak;Rendah;Hipertensi
+72;Laki-laki;24.3;111;131;Ya;Rendah;Jantung
+50;Perempuan;32.4;153;188;Tidak;Tinggi;Tidak Ada
+79;Laki-laki;26.4;130;106;Ya;Rendah;Diabetes
+21;Perempuan;22;176;203;Tidak;Tinggi;Tidak Ada
+39;Laki-laki;27.3;160;95;Ya;Sedang;Diabetes
+19;Laki-laki;17.4;145;77;Tidak;Sedang;Hipertensi
+27;Laki-laki;24.5;112;73;Tidak;Tinggi;Diabetes
+22;Perempuan;25.3;114;90;Ya;Sedang;Tidak Ada
+76;Laki-laki;24.5;95;228;Tidak;Tinggi;Hipertensi
+27;Perempuan;22.7;123;218;Tidak;Rendah;Diabetes
+50;Laki-laki;20;152;94;Tidak;Rendah;Jantung
+71;Laki-laki;20.8;98;212;Tidak;Tinggi;Diabetes
+55;Laki-laki;24.4;149;232;Tidak;Rendah;Hipertensi
+30;Laki-laki;19.5;138;246;Ya;Sedang;Tidak Ada
+48;Laki-laki;31.1;140;112;Ya;Rendah;Hipertensi
+64;Perempuan;13.4;149;238;Tidak;Rendah;Tidak Ada
+53;Perempuan;22.7;159;106;Ya;Tinggi;Diabetes
+62;Laki-laki;24.4;126;111;Tidak;Sedang;Diabetes
+41;Laki-laki;26;120;244;Ya;Rendah;Hipertensi
+69;Laki-laki;20.3;130;161;Tidak;Rendah;Jantung
+73;Laki-laki;28.5;151;130;Tidak;Tinggi;Diabetes
+32;Perempuan;18.4;147;211;Tidak;Tinggi;Jantung
+46;Laki-laki;21.7;103;137;Tidak;Sedang;Jantung
+25;Perempuan;26.5;125;122;Ya;Rendah;Hipertensi
+22;Laki-laki;28.2;125;153;Ya;Tinggi;Diabetes
+46;Perempuan;18.4;168;103;Ya;Tinggi;Jantung
+64;Laki-laki;34.6;97;145;Tidak;Tinggi;Diabetes
+21;Laki-laki;20.4;115;166;Ya;Sedang;Tidak Ada
+29;Perempuan;18.8;125;221;Ya;Tinggi;Jantung
+62;Laki-laki;26;137;217;Tidak;Sedang;Hipertensi
+19;Laki-laki;22.6;174;99;Tidak;Sedang;Hipertensi
+44;Laki-laki;22;117;157;Tidak;Rendah;Jantung
+48;Perempuan;26.4;157;76;Ya;Rendah;Diabetes
+68;Laki-laki;17.9;151;105;Ya;Sedang;Tidak Ada
+68;Laki-laki;17.2;169;107;Tidak;Rendah;Tidak Ada
+53;Perempuan;21.6;175;121;Ya;Rendah;Hipertensi
+53;Perempuan;28.3;165;212;Tidak;Tinggi;Hipertensi
+43;Perempuan;21.8;169;243;Ya;Rendah;Diabetes
+60;Laki-laki;30.4;140;220;Tidak;Sedang;Hipertensi
+44;Laki-laki;28.8;131;209;Ya;Rendah;Diabetes
+22;Laki-laki;25.1;118;241;Ya;Tinggi;Jantung
+37;Perempuan;25.4;171;212;Ya;Sedang;Tidak Ada
+28;Laki-laki;25.1;99;162;Tidak;Rendah;Jantung
+79;Laki-laki;24.6;128;176;Tidak;Sedang;Hipertensi
+27;Perempuan;22.5;171;195;Tidak;Rendah;Tidak Ada
+57;Perempuan;23;90;118;Ya;Tinggi;Tidak Ada
+55;Perempuan;19.7;128;90;Tidak;Rendah;Jantung
+23;Perempuan;15.2;110;84;Ya;Sedang;Diabetes
+25;Perempuan;28.4;154;83;Tidak;Sedang;Tidak Ada
+40;Laki-laki;24.6;104;111;Tidak;Sedang;Diabetes
+64;Perempuan;24;93;84;Ya;Rendah;Jantung
+43;Laki-laki;25.6;149;132;Ya;Rendah;Jantung
+63;Laki-laki;20.7;150;96;Tidak;Rendah;Diabetes
+60;Perempuan;20;109;162;Tidak;Tinggi;Jantung
+29;Perempuan;22.9;99;174;Ya;Tinggi;Tidak Ada
+43;Perempuan;29.5;176;122;Ya;Tinggi;Jantung
+30;Laki-laki;19.3;123;121;Tidak;Sedang;Jantung
+57;Perempuan;13.5;137;132;Ya;Sedang;Tidak Ada
+79;Perempuan;21.9;122;126;Tidak;Sedang;Diabetes
+35;Perempuan;28.6;150;189;Tidak;Sedang;Jantung
+42;Perempuan;17.1;99;121;Tidak;Sedang;Diabetes
+50;Perempuan;19.3;143;176;Ya;Rendah;Tidak Ada
+64;Laki-laki;25.1;173;112;Tidak;Sedang;Diabetes
+57;Laki-laki;34.3;154;204;Tidak;Rendah;Diabetes
+77;Laki-laki;18.6;166;186;Ya;Tinggi;Hipertensi
+60;Perempuan;18.4;90;239;Ya;Tinggi;Hipertensi
+29;Perempuan;25.4;94;73;Ya;Tinggi;Jantung
+61;Perempuan;28.8;169;202;Tidak;Tinggi;Hipertensi
+53;Laki-laki;21.5;104;149;Ya;Tinggi;Hipertensi
+65;Perempuan;17.5;117;110;Ya;Sedang;Hipertensi
+21;Perempuan;25.7;112;201;Tidak;Sedang;Diabetes
+22;Perempuan;26.5;106;71;Tidak;Sedang;Diabetes
+73;Laki-laki;31.1;102;218;Tidak;Tinggi;Hipertensi
+54;Perempuan;26.6;103;112;Tidak;Tinggi;Tidak Ada
+25;Laki-laki;27.3;100;151;Ya;Rendah;Hipertensi
+59;Perempuan;23;117;177;Tidak;Sedang;Tidak Ada
+66;Laki-laki;33.8;131;206;Ya;Tinggi;Diabetes
+45;Laki-laki;22.4;150;225;Tidak;Tinggi;Tidak Ada
+48;Laki-laki;21.6;153;95;Tidak;Tinggi;Diabetes
+75;Perempuan;31.2;120;151;Ya;Rendah;Tidak Ada
+26;Perempuan;18.1;170;152;Ya;Tinggi;Diabetes
+71;Laki-laki;16.6;162;200;Ya;Rendah;Diabetes
+68;Laki-laki;24.5;99;142;Tidak;Rendah;Hipertensi
+46;Perempuan;24;97;169;Tidak;Sedang;Jantung
+31;Perempuan;23.1;110;118;Ya;Tinggi;Jantung
+57;Laki-laki;28;166;214;Ya;Rendah;Diabetes
+58;Perempuan;20.4;148;132;Tidak;Tinggi;Hipertensi
+39;Perempuan;24.3;139;124;Ya;Sedang;Jantung
+28;Perempuan;22.6;158;220;Ya;Sedang;Jantung
+40;Perempuan;20.4;159;103;Tidak;Rendah;Hipertensi
+18;Laki-laki;23.8;119;174;Ya;Sedang;Hipertensi
+63;Perempuan;27.4;106;174;Tidak;Sedang;Jantung
+54;Perempuan;32.5;164;138;Tidak;Sedang;Jantung
+38;Laki-laki;26.3;109;84;Tidak;Tinggi;Tidak Ada
+43;Laki-laki;14;137;244;Ya;Tinggi;Tidak Ada
+63;Perempuan;23.8;162;72;Ya;Rendah;Diabetes
+53;Perempuan;24.2;91;225;Ya;Rendah;Jantung
+71;Perempuan;27.7;126;72;Ya;Sedang;Hipertensi
+40;Perempuan;24.7;90;171;Tidak;Sedang;Hipertensi
+74;Laki-laki;29;93;73;Tidak;Rendah;Jantung
+18;Laki-laki;25.6;143;157;Ya;Sedang;Diabetes
+71;Laki-laki;30.2;114;228;Ya;Rendah;Hipertensi
+72;Perempuan;22.2;92;114;Ya;Tinggi;Jantung
+68;Perempuan;24.6;98;114;Ya;Sedang;Jantung
+57;Perempuan;27.3;175;144;Tidak;Sedang;Diabetes
+32;Perempuan;21.7;176;234;Ya;Sedang;Jantung
+38;Laki-laki;20.8;165;78;Tidak;Tinggi;Hipertensi
+64;Laki-laki;21.5;163;214;Ya;Tinggi;Tidak Ada
+26;Perempuan;21;123;187;Ya;Sedang;Diabetes
+70;Laki-laki;26.1;132;134;Ya;Rendah;Jantung
+26;Perempuan;16.7;163;200;Tidak;Tinggi;Diabetes
+27;Perempuan;17.8;111;95;Ya;Sedang;Jantung
+69;Laki-laki;31.5;159;228;Tidak;Sedang;Tidak Ada
+74;Perempuan;21.1;91;95;Tidak;Tinggi;Diabetes
+70;Perempuan;24.8;155;92;Ya;Rendah;Jantung
+43;Laki-laki;18;121;99;Tidak;Sedang;Tidak Ada
+58;Perempuan;24.4;105;79;Tidak;Rendah;Hipertensi
+52;Perempuan;21.1;165;141;Tidak;Rendah;Jantung
+69;Laki-laki;17.7;90;133;Ya;Tinggi;Tidak Ada
+42;Perempuan;29.3;161;219;Tidak;Sedang;Tidak Ada
+43;Laki-laki;28.7;137;212;Tidak;Sedang;Diabetes
+28;Perempuan;23.6;139;192;Ya;Rendah;Jantung
+55;Laki-laki;28;102;174;Ya;Tinggi;Hipertensi
+19;Laki-laki;31.6;104;143;Tidak;Tinggi;Jantung
+24;Laki-laki;27;142;217;Tidak;Tinggi;Tidak Ada
+35;Perempuan;25.9;133;174;Tidak;Rendah;Hipertensi
+44;Laki-laki;24.8;97;116;Tidak;Rendah;Tidak Ada
+51;Laki-laki;26.6;163;156;Ya;Sedang;Diabetes
+44;Laki-laki;22.5;135;122;Ya;Tinggi;Jantung
+34;Laki-laki;22.9;158;198;Tidak;Rendah;Tidak Ada
+60;Laki-laki;25.8;108;71;Ya;Tinggi;Tidak Ada
+76;Perempuan;22.1;127;127;Tidak;Rendah;Jantung
+61;Perempuan;22.5;100;216;Ya;Sedang;Hipertensi
+76;Perempuan;24;132;141;Ya;Tinggi;Tidak Ada
+68;Perempuan;28.6;109;209;Tidak;Rendah;Jantung
+71;Perempuan;19.5;109;223;Tidak;Tinggi;Diabetes
+41;Perempuan;27;110;96;Tidak;Rendah;Diabetes
+42;Perempuan;27.2;171;98;Tidak;Rendah;Jantung
+24;Laki-laki;27.1;146;84;Ya;Rendah;Tidak Ada
+69;Perempuan;20.8;139;243;Ya;Tinggi;Jantung
+23;Laki-laki;17.2;163;198;Tidak;Rendah;Jantung
+70;Laki-laki;26.2;115;129;Ya;Sedang;Tidak Ada
+41;Perempuan;24.8;119;176;Ya;Tinggi;Hipertensi
+50;Laki-laki;28;162;72;Tidak;Sedang;Hipertensi
+66;Laki-laki;21.2;120;184;Tidak;Sedang;Diabetes
+46;Laki-laki;27;131;215;Ya;Tinggi;Hipertensi
+60;Laki-laki;28.2;157;121;Tidak;Rendah;Jantung
+39;Perempuan;23.6;150;129;Tidak;Sedang;Tidak Ada
+43;Perempuan;25.7;150;103;Ya;Tinggi;Diabetes
+45;Perempuan;25.5;159;165;Ya;Rendah;Hipertensi
+67;Perempuan;20.7;167;158;Tidak;Tinggi;Jantung
+38;Perempuan;26.1;157;129;Ya;Tinggi;Diabetes
+66;Perempuan;30.5;179;223;Tidak;Tinggi;Tidak Ada
+24;Perempuan;24.1;106;88;Tidak;Rendah;Hipertensi
+34;Perempuan;18.2;108;180;Ya;Sedang;Jantung
+37;Perempuan;21.3;140;91;Ya;Sedang;Tidak Ada
+58;Perempuan;16.9;159;230;Tidak;Tinggi;Jantung
+66;Laki-laki;29.2;152;235;Tidak;Tinggi;Jantung
+37;Perempuan;27.1;164;197;Tidak;Rendah;Jantung
+71;Laki-laki;22;169;104;Ya;Tinggi;Tidak Ada
+39;Laki-laki;18.3;119;176;Tidak;Tinggi;Diabetes
+45;Laki-laki;20.7;114;197;Ya;Tinggi;Jantung
+78;Laki-laki;21.4;164;152;Tidak;Sedang;Diabetes
+57;Perempuan;24.4;160;207;Ya;Tinggi;Diabetes
+66;Laki-laki;24.3;115;212;Tidak;Sedang;Hipertensi
+24;Perempuan;29.4;145;208;Ya;Rendah;Hipertensi
+18;Perempuan;21.2;111;180;Tidak;Rendah;Diabetes
+49;Laki-laki;18;178;159;Tidak;Sedang;Hipertensi
+30;Perempuan;19.4;108;93;Tidak;Sedang;Hipertensi
+47;Laki-laki;23.9;120;146;Tidak;Sedang;Diabetes
+40;Laki-laki;21.1;115;170;Ya;Sedang;Tidak Ada
+68;Perempuan;22.8;131;201;Ya;Tinggi;Hipertensi
+76;Perempuan;22.2;130;82;Ya;Sedang;Hipertensi
+73;Laki-laki;28;112;167;Ya;Sedang;Tidak Ada
+36;Perempuan;21.7;136;189;Ya;Sedang;Tidak Ada
+79;Perempuan;22.5;102;106;Tidak;Tinggi;Tidak Ada
+49;Perempuan;26.9;178;117;Ya;Tinggi;Diabetes
+47;Laki-laki;21.7;155;70;Ya;Tinggi;Tidak Ada
+46;Laki-laki;25.7;155;129;Ya;Rendah;Diabetes
+66;Perempuan;25.3;105;209;Ya;Tinggi;Jantung
+62;Perempuan;24.6;162;218;Tidak;Sedang;Jantung
+46;Perempuan;19.5;117;208;Tidak;Tinggi;Tidak Ada
+47;Perempuan;28.9;166;113;Tidak;Tinggi;Tidak Ada
+33;Perempuan;32.9;124;184;Tidak;Sedang;Jantung
+57;Laki-laki;24;130;177;Ya;Tinggi;Diabetes
+36;Perempuan;19.8;166;113;Ya;Rendah;Diabetes
+35;Laki-laki;24.1;120;147;Tidak;Tinggi;Tidak Ada
+18;Perempuan;28;174;231;Tidak;Rendah;Tidak Ada
+31;Laki-laki;21.5;121;94;Ya;Rendah;Tidak Ada
+68;Perempuan;23.5;143;201;Ya;Rendah;Jantung
+64;Laki-laki;25.4;161;185;Tidak;Sedang;Hipertensi
+67;Perempuan;28.8;148;188;Tidak;Tinggi;Tidak Ada
+19;Laki-laki;27.1;130;213;Tidak;Rendah;Diabetes
+71;Laki-laki;27.3;155;79;Tidak;Rendah;Hipertensi
+45;Laki-laki;22.3;143;178;Ya;Tinggi;Diabetes
+66;Laki-laki;25.6;129;104;Ya;Sedang;Hipertensi
+67;Laki-laki;21.1;117;203;Ya;Sedang;Jantung
+47;Laki-laki;27.4;126;88;Tidak;Rendah;Hipertensi
+55;Perempuan;28.6;154;77;Ya;Sedang;Diabetes
+68;Laki-laki;26.2;163;79;Ya;Tinggi;Hipertensi
+21;Perempuan;22.5;144;235;Tidak;Sedang;Jantung
+18;Perempuan;23.2;93;98;Tidak;Tinggi;Diabetes
+25;Perempuan;31.2;99;84;Tidak;Rendah;Tidak Ada
+46;Perempuan;22.6;136;156;Tidak;Tinggi;Hipertensi
+72;Perempuan;28.2;164;92;Tidak;Rendah;Diabetes
+56;Laki-laki;25.4;103;115;Tidak;Tinggi;Hipertensi
+20;Laki-laki;22.7;127;97;Ya;Tinggi;Jantung
+49;Laki-laki;18.6;101;95;Ya;Sedang;Diabetes
+27;Perempuan;24.8;134;79;Ya;Tinggi;Tidak Ada
+27;Laki-laki;24.4;106;244;Ya;Rendah;Tidak Ada
+36;Laki-laki;31.2;169;73;Ya;Tinggi;Hipertensi
+63;Laki-laki;20.6;124;124;Ya;Rendah;Jantung
+51;Laki-laki;33.2;155;135;Tidak;Rendah;Jantung
+77;Laki-laki;25.5;164;136;Tidak;Tinggi;Hipertensi
+50;Perempuan;25.5;130;204;Tidak;Sedang;Diabetes
+40;Laki-laki;21.6;156;124;Ya;Tinggi;Diabetes
+72;Perempuan;25.3;118;100;Ya;Tinggi;Hipertensi
+45;Perempuan;25.9;107;143;Tidak;Sedang;Diabetes
+49;Perempuan;27.7;109;88;Tidak;Rendah;Diabetes
+67;Perempuan;20.1;103;225;Tidak;Tinggi;Diabetes
+24;Perempuan;29.6;123;150;Tidak;Sedang;Hipertensi
+46;Laki-laki;25.4;138;225;Tidak;Sedang;Tidak Ada
+25;Laki-laki;26.4;143;216;Ya;Rendah;Jantung
+18;Laki-laki;23.1;120;156;Ya;Sedang;Tidak Ada
+74;Perempuan;20.3;147;89;Ya;Rendah;Diabetes
+72;Laki-laki;24.3;131;82;Tidak;Tinggi;Hipertensi
+20;Laki-laki;24.7;147;146;Ya;Sedang;Jantung
+41;Perempuan;18.5;171;112;Tidak;Tinggi;Diabetes
+40;Perempuan;27.2;119;208;Ya;Sedang;Jantung
+76;Perempuan;28;114;245;Tidak;Sedang;Jantung
+78;Perempuan;21.1;152;212;Tidak;Tinggi;Tidak Ada
+25;Laki-laki;19.9;108;214;Ya;Sedang;Diabetes
+71;Perempuan;22.8;161;119;Ya;Tinggi;Jantung
+74;Perempuan;24.1;97;97;Ya;Tinggi;Tidak Ada
+64;Laki-laki;22.9;92;73;Ya;Rendah;Hipertensi
+54;Laki-laki;23.8;156;91;Ya;Tinggi;Jantung
+20;Perempuan;24.9;175;188;Tidak;Rendah;Diabetes
+68;Laki-laki;18.5;170;170;Ya;Tinggi;Hipertensi
+50;Perempuan;19;106;108;Ya;Sedang;Jantung
+45;Perempuan;13.1;103;103;Tidak;Tinggi;Jantung
+64;Laki-laki;27.8;98;166;Ya;Sedang;Diabetes
+25;Laki-laki;24.1;151;113;Tidak;Rendah;Jantung
+51;Perempuan;28.2;110;239;Ya;Sedang;Diabetes
+52;Perempuan;19.4;165;109;Ya;Tinggi;Diabetes
+49;Perempuan;24.1;126;166;Tidak;Sedang;Diabetes
+41;Laki-laki;24.9;100;209;Ya;Rendah;Diabetes
+31;Perempuan;21.8;109;199;Ya;Sedang;Jantung
+49;Perempuan;17.8;124;225;Ya;Sedang;Hipertensi
+73;Perempuan;31;142;143;Ya;Tinggi;Hipertensi
+63;Perempuan;29.6;136;155;Tidak;Tinggi;Tidak Ada
+60;Perempuan;22.5;164;159;Tidak;Sedang;Diabetes
+33;Laki-laki;26;141;136;Ya;Rendah;Jantung
+21;Perempuan;22.1;97;145;Ya;Sedang;Jantung
+69;Perempuan;20;93;161;Tidak;Rendah;Tidak Ada
+54;Perempuan;31.3;116;79;Tidak;Rendah;Hipertensi
+71;Perempuan;17.4;133;155;Ya;Rendah;Jantung
+38;Laki-laki;22.9;129;171;Tidak;Sedang;Tidak Ada
+31;Laki-laki;24.3;136;177;Tidak;Rendah;Hipertensi
+48;Laki-laki;30.6;133;234;Tidak;Sedang;Jantung
+72;Perempuan;27.6;137;160;Tidak;Rendah;Diabetes
+65;Perempuan;17.3;174;148;Ya;Rendah;Tidak Ada
+35;Laki-laki;24;141;155;Tidak;Sedang;Jantung
+24;Laki-laki;24.1;173;176;Ya;Tinggi;Tidak Ada
+27;Laki-laki;23.1;157;237;Ya;Tinggi;Tidak Ada
+24;Perempuan;26.5;100;170;Tidak;Sedang;Tidak Ada
+50;Perempuan;18.4;166;177;Ya;Sedang;Diabetes
+40;Laki-laki;22.4;162;129;Ya;Tinggi;Hipertensi
+38;Laki-laki;25.9;93;117;Tidak;Tinggi;Hipertensi
+36;Laki-laki;26.7;165;186;Tidak;Tinggi;Jantung
+65;Perempuan;24.6;162;175;Tidak;Sedang;Diabetes
+78;Perempuan;22.8;166;216;Ya;Rendah;Hipertensi
+36;Perempuan;23.5;137;102;Ya;Sedang;Jantung
+53;Laki-laki;27;115;113;Ya;Tinggi;Jantung
+46;Laki-laki;24.1;166;234;Ya;Rendah;Tidak Ada
+77;Perempuan;19.8;128;181;Tidak;Sedang;Diabetes
+35;Laki-laki;19.1;147;158;Ya;Tinggi;Hipertensi
+19;Perempuan;18;108;105;Tidak;Sedang;Diabetes
+18;Laki-laki;29.8;177;150;Tidak;Rendah;Diabetes
+64;Laki-laki;27.2;172;157;Tidak;Tinggi;Hipertensi
+22;Laki-laki;23.6;166;218;Tidak;Sedang;Hipertensi
+37;Laki-laki;22.2;166;199;Ya;Rendah;Diabetes
+28;Perempuan;21.7;147;100;Tidak;Rendah;Jantung
+59;Laki-laki;28.4;117;177;Ya;Sedang;Diabetes
+19;Perempuan;31.6;155;99;Tidak;Rendah;Hipertensi
+20;Perempuan;21.6;99;241;Tidak;Tinggi;Diabetes
+40;Perempuan;28.6;175;81;Tidak;Rendah;Hipertensi
+72;Laki-laki;24.1;166;120;Ya;Sedang;Jantung
+29;Perempuan;23.2;147;190;Tidak;Tinggi;Diabetes
+37;Perempuan;30;162;246;Tidak;Rendah;Jantung
+22;Perempuan;24;103;221;Tidak;Rendah;Diabetes
+54;Laki-laki;25.2;173;221;Tidak;Tinggi;Diabetes
+55;Laki-laki;25;104;208;Ya;Tinggi;Hipertensi
+47;Perempuan;17.5;122;82;Ya;Rendah;Tidak Ada
+26;Laki-laki;25.2;106;160;Tidak;Tinggi;Hipertensi
+51;Perempuan;21.7;113;143;Tidak;Sedang;Diabetes
+70;Perempuan;18.3;119;89;Ya;Rendah;Tidak Ada
+61;Laki-laki;21.9;151;141;Ya;Sedang;Tidak Ada
+52;Perempuan;21.9;102;142;Ya;Rendah;Jantung
+69;Laki-laki;28.1;151;140;Tidak;Sedang;Diabetes
+75;Laki-laki;19.7;136;147;Ya;Sedang;Hipertensi
+39;Perempuan;20.8;105;97;Tidak;Tinggi;Tidak Ada
+61;Laki-laki;24.9;155;199;Ya;Rendah;Tidak Ada
+41;Laki-laki;18.7;170;190;Ya;Tinggi;Hipertensi
+34;Perempuan;21.4;132;112;Tidak;Tinggi;Hipertensi
+27;Perempuan;17.3;97;77;Ya;Rendah;Tidak Ada
+47;Laki-laki;27.7;92;82;Tidak;Sedang;Hipertensi
+73;Laki-laki;22.8;101;180;Ya;Rendah;Jantung
+76;Perempuan;23.9;173;104;Tidak;Rendah;Tidak Ada
+63;Laki-laki;27.7;105;92;Ya;Rendah;Jantung
+40;Laki-laki;21.1;167;115;Ya;Tinggi;Diabetes
+49;Laki-laki;22.8;169;84;Tidak;Rendah;Jantung
+34;Laki-laki;19.8;148;199;Tidak;Rendah;Hipertensi
+67;Laki-laki;19.8;138;130;Tidak;Rendah;Tidak Ada
+68;Laki-laki;20.3;152;184;Tidak;Sedang;Jantung
+34;Laki-laki;22;151;133;Ya;Sedang;Hipertensi
+31;Perempuan;22.5;138;121;Ya;Sedang;Hipertensi
+26;Perempuan;25.2;140;233;Ya;Sedang;Jantung
+57;Perempuan;20.4;122;138;Ya;Tinggi;Tidak Ada
+19;Perempuan;25.3;119;136;Ya;Tinggi;Jantung
+62;Perempuan;25.9;148;244;Ya;Rendah;Diabetes
+42;Laki-laki;22.1;165;152;Tidak;Tinggi;Jantung
+56;Laki-laki;20.8;104;71;Ya;Sedang;Jantung
+26;Laki-laki;24.3;171;241;Ya;Rendah;Tidak Ada
+71;Laki-laki;23.2;112;147;Tidak;Rendah;Jantung
+39;Perempuan;24.9;167;97;Ya;Sedang;Hipertensi
+60;Laki-laki;30.3;134;123;Ya;Sedang;Tidak Ada
+63;Laki-laki;24.3;151;136;Ya;Sedang;Hipertensi
+21;Perempuan;21.4;168;233;Tidak;Tinggi;Tidak Ada
+43;Laki-laki;20.4;160;171;Tidak;Rendah;Diabetes
+75;Laki-laki;20.6;104;189;Ya;Sedang;Diabetes
+46;Perempuan;18.1;135;222;Tidak;Rendah;Diabetes
+62;Laki-laki;27.7;153;117;Ya;Rendah;Jantung
+51;Laki-laki;15.1;135;236;Ya;Tinggi;Diabetes
+40;Laki-laki;26;145;116;Ya;Rendah;Tidak Ada
+54;Laki-laki;20.5;133;90;Tidak;Sedang;Diabetes
+28;Laki-laki;22;164;227;Ya;Sedang;Tidak Ada
+23;Perempuan;20.4;118;161;Ya;Rendah;Hipertensi
+35;Perempuan;29.8;151;228;Ya;Rendah;Jantung
+38;Perempuan;24.1;178;190;Ya;Tinggi;Hipertensi
+59;Perempuan;27.2;141;185;Ya;Sedang;Hipertensi
+53;Perempuan;29.2;143;223;Tidak;Sedang;Diabetes
+58;Perempuan;24.7;177;219;Ya;Rendah;Diabetes
+55;Laki-laki;19.2;146;218;Tidak;Rendah;Diabetes
+51;Perempuan;23.1;172;70;Ya;Rendah;Hipertensi
+34;Perempuan;21;155;234;Tidak;Sedang;Jantung
+54;Laki-laki;22;111;146;Ya;Rendah;Jantung
+42;Laki-laki;23.6;109;154;Ya;Tinggi;Hipertensi
+55;Perempuan;23.5;122;115;Tidak;Tinggi;Jantung
+75;Laki-laki;25.6;161;206;Tidak;Rendah;Hipertensi
+29;Perempuan;26.2;114;214;Ya;Tinggi;Hipertensi
+40;Laki-laki;23.5;135;116;Tidak;Tinggi;Jantung
+70;Perempuan;25.6;162;128;Tidak;Tinggi;Tidak Ada
+59;Laki-laki;21.8;146;123;Ya;Tinggi;Tidak Ada
+39;Laki-laki;29.3;176;155;Ya;Tinggi;Diabetes
+38;Perempuan;21.7;94;81;Ya;Sedang;Jantung
+44;Perempuan;28.8;144;75;Ya;Rendah;Diabetes
+74;Perempuan;18.1;150;122;Ya;Tinggi;Hipertensi
+48;Perempuan;22.5;178;213;Tidak;Rendah;Tidak Ada
+23;Perempuan;22.7;97;159;Ya;Tinggi;Jantung
+44;Laki-laki;25.1;105;74;Tidak;Sedang;Jantung
+57;Perempuan;27.4;137;142;Ya;Sedang;Jantung
+51;Perempuan;19;150;243;Ya;Tinggi;Tidak Ada
+29;Laki-laki;19.6;104;83;Tidak;Tinggi;Diabetes
+62;Laki-laki;18.4;154;241;Ya;Tinggi;Tidak Ada
+74;Perempuan;29.3;111;175;Tidak;Sedang;Diabetes
+70;Laki-laki;25.2;92;121;Tidak;Sedang;Hipertensi
+24;Laki-laki;19.7;143;185;Tidak;Rendah;Hipertensi
+27;Perempuan;22.2;103;95;Ya;Sedang;Diabetes
+62;Laki-laki;28.7;125;122;Ya;Tinggi;Hipertensi
+34;Laki-laki;22.9;171;178;Ya;Rendah;Hipertensi
+43;Perempuan;22.7;171;98;Ya;Sedang;Jantung
+38;Perempuan;20.9;156;88;Ya;Sedang;Jantung
+45;Laki-laki;19.9;99;116;Ya;Tinggi;Tidak Ada
+79;Laki-laki;28.7;138;205;Tidak;Rendah;Tidak Ada
+75;Perempuan;30.7;154;92;Ya;Sedang;Tidak Ada
+63;Laki-laki;20.1;146;186;Ya;Sedang;Jantung
+19;Laki-laki;29.6;116;175;Ya;Tinggi;Tidak Ada
+77;Laki-laki;22.1;164;232;Ya;Rendah;Tidak Ada
+71;Perempuan;26.1;94;122;Tidak;Rendah;Jantung
+60;Laki-laki;29.6;160;165;Tidak;Rendah;Diabetes
+18;Laki-laki;23.4;172;74;Tidak;Rendah;Jantung
+68;Perempuan;22.7;146;85;Tidak;Tinggi;Diabetes
+70;Laki-laki;27.2;104;86;Tidak;Sedang;Jantung
+53;Laki-laki;19.6;165;229;Ya;Sedang;Tidak Ada
+68;Perempuan;28.6;119;171;Tidak;Rendah;Hipertensi
+43;Perempuan;24.6;109;249;Tidak;Rendah;Hipertensi
+46;Perempuan;21.7;126;89;Ya;Rendah;Diabetes
+38;Perempuan;21.6;92;181;Ya;Sedang;Diabetes
+28;Laki-laki;18.5;162;189;Tidak;Sedang;Diabetes
+57;Laki-laki;21.9;130;180;Ya;Rendah;Hipertensi
+28;Perempuan;22.9;128;70;Ya;Tinggi;Diabetes
+53;Perempuan;19.8;115;127;Tidak;Sedang;Jantung
+66;Laki-laki;23.8;91;162;Ya;Sedang;Jantung
+76;Perempuan;25.9;112;241;Tidak;Rendah;Hipertensi
+56;Laki-laki;23.1;112;75;Tidak;Tinggi;Jantung
+57;Perempuan;26.7;174;177;Ya;Rendah;Diabetes
+52;Laki-laki;20.8;105;172;Tidak;Rendah;Hipertensi
+71;Perempuan;28;98;119;Tidak;Tinggi;Diabetes
+51;Perempuan;24.5;102;187;Ya;Tinggi;Jantung
+72;Laki-laki;30.2;117;179;Ya;Tinggi;Diabetes
+64;Perempuan;33.7;116;157;Ya;Sedang;Hipertensi
+41;Laki-laki;22.1;140;89;Ya;Rendah;Diabetes
+71;Laki-laki;22.3;153;83;Tidak;Sedang;Jantung
+39;Laki-laki;23;141;202;Ya;Tinggi;Tidak Ada
+22;Laki-laki;26.4;170;238;Ya;Sedang;Hipertensi
+73;Laki-laki;29.3;127;109;Tidak;Tinggi;Diabetes
+50;Perempuan;21.4;154;103;Tidak;Tinggi;Hipertensi
+75;Perempuan;25.5;107;193;Tidak;Rendah;Diabetes
+53;Laki-laki;23.5;152;114;Tidak;Rendah;Tidak Ada
+64;Perempuan;26.5;140;149;Ya;Rendah;Jantung
+37;Laki-laki;30;98;140;Ya;Sedang;Diabetes
+36;Perempuan;23;102;224;Tidak;Rendah;Diabetes
+52;Perempuan;17.3;129;147;Tidak;Tinggi;Tidak Ada
+69;Perempuan;27;144;147;Tidak;Rendah;Hipertensi
+60;Perempuan;20.7;168;241;Tidak;Sedang;Jantung
+34;Laki-laki;23.4;132;102;Ya;Rendah;Diabetes
+79;Laki-laki;27.1;133;102;Tidak;Rendah;Diabetes
+76;Perempuan;25.2;157;113;Ya;Rendah;Jantung
+62;Perempuan;23.6;122;89;Tidak;Sedang;Tidak Ada
+60;Laki-laki;21.7;113;180;Ya;Tinggi;Hipertensi
+51;Perempuan;12.4;125;233;Ya;Tinggi;Jantung
+26;Laki-laki;26.8;99;76;Ya;Tinggi;Hipertensi
+43;Laki-laki;23;109;229;Ya;Rendah;Tidak Ada
+19;Laki-laki;30.1;164;236;Tidak;Rendah;Tidak Ada
+70;Perempuan;25.6;101;93;Ya;Sedang;Jantung
+26;Laki-laki;21.8;151;139;Tidak;Tinggi;Diabetes
+26;Perempuan;28.3;107;181;Ya;Rendah;Tidak Ada
+57;Laki-laki;28.6;152;173;Ya;Rendah;Tidak Ada
+34;Perempuan;23.1;173;123;Tidak;Rendah;Jantung
+18;Perempuan;28.8;114;107;Tidak;Sedang;Jantung
+42;Perempuan;21.8;101;143;Ya;Tinggi;Jantung
+78;Laki-laki;24.6;110;149;Ya;Sedang;Tidak Ada
+60;Laki-laki;26.3;114;101;Tidak;Tinggi;Hipertensi
+57;Perempuan;27.1;100;114;Ya;Tinggi;Tidak Ada
+59;Perempuan;26.5;153;130;Tidak;Rendah;Jantung
+42;Perempuan;22.7;162;122;Tidak;Rendah;Diabetes
+56;Laki-laki;28.4;139;197;Tidak;Rendah;Diabetes
+52;Laki-laki;23.5;151;248;Ya;Rendah;Jantung
+20;Laki-laki;21.7;178;145;Ya;Rendah;Diabetes
+67;Laki-laki;21.8;138;96;Tidak;Tinggi;Tidak Ada
+54;Perempuan;31.8;103;235;Tidak;Rendah;Hipertensi
+61;Perempuan;21;90;131;Tidak;Rendah;Tidak Ada
+61;Laki-laki;29.2;170;87;Tidak;Sedang;Jantung
+68;Laki-laki;19.5;114;196;Ya;Sedang;Tidak Ada
+47;Perempuan;26;148;178;Tidak;Tinggi;Diabetes
+55;Laki-laki;25.2;161;172;Ya;Tinggi;Tidak Ada
+51;Laki-laki;30.5;158;146;Tidak;Sedang;Hipertensi
+29;Laki-laki;21.4;94;186;Ya;Sedang;Diabetes
+36;Laki-laki;20.3;108;173;Ya;Rendah;Hipertensi
+54;Laki-laki;23.5;112;227;Ya;Rendah;Hipertensi
+61;Laki-laki;30.7;98;118;Ya;Tinggi;Hipertensi
+76;Perempuan;20.5;139;238;Ya;Sedang;Tidak Ada
+76;Laki-laki;13.6;105;185;Tidak;Tinggi;Tidak Ada
+66;Laki-laki;24.2;122;210;Tidak;Rendah;Tidak Ada
+78;Perempuan;27.8;91;231;Ya;Tinggi;Tidak Ada
+34;Perempuan;19.9;103;169;Tidak;Tinggi;Diabetes
+27;Perempuan;27.4;90;194;Tidak;Tinggi;Tidak Ada
+74;Laki-laki;19.9;179;94;Tidak;Rendah;Diabetes
+72;Perempuan;23.4;147;197;Tidak;Tinggi;Hipertensi
+66;Laki-laki;27;178;169;Tidak;Rendah;Diabetes
+64;Laki-laki;19.3;105;215;Tidak;Sedang;Jantung
+29;Laki-laki;24.7;168;74;Tidak;Tinggi;Tidak Ada
+79;Perempuan;28.9;179;88;Ya;Tinggi;Jantung
+33;Perempuan;25.9;136;239;Tidak;Rendah;Diabetes
+41;Perempuan;21.1;133;87;Tidak;Tinggi;Tidak Ada
+36;Perempuan;30.1;169;190;Tidak;Rendah;Jantung
+25;Perempuan;26.6;103;101;Ya;Tinggi;Tidak Ada
+48;Laki-laki;16.6;113;218;Ya;Sedang;Diabetes
+38;Laki-laki;27.5;144;79;Tidak;Sedang;Jantung
+34;Laki-laki;21.7;104;106;Ya;Sedang;Diabetes
+40;Laki-laki;24.8;172;246;Ya;Tinggi;Jantung
+54;Perempuan;28;161;155;Tidak;Tinggi;Hipertensi
+71;Perempuan;21.8;123;82;Ya;Sedang;Hipertensi
+33;Laki-laki;17.4;91;214;Tidak;Sedang;Hipertensi
+23;Perempuan;30;116;78;Ya;Rendah;Hipertensi
+25;Perempuan;28.7;163;157;Tidak;Rendah;Hipertensi
+42;Laki-laki;23.7;176;241;Ya;Sedang;Diabetes
+35;Laki-laki;27.4;161;115;Tidak;Sedang;Hipertensi
+42;Perempuan;22.5;112;205;Tidak;Tinggi;Diabetes
+29;Perempuan;24.4;157;188;Ya;Sedang;Hipertensi
+32;Laki-laki;23.4;103;234;Tidak;Rendah;Tidak Ada
+76;Laki-laki;22.7;152;88;Tidak;Rendah;Hipertensi
+43;Laki-laki;25.4;154;243;Ya;Rendah;Tidak Ada
+58;Perempuan;19.2;157;163;Tidak;Rendah;Diabetes
+62;Laki-laki;23;152;95;Tidak;Rendah;Hipertensi
+43;Laki-laki;25.3;179;115;Ya;Rendah;Jantung
+64;Perempuan;31.4;170;187;Tidak;Sedang;Diabetes
+49;Perempuan;19.3;176;115;Ya;Rendah;Hipertensi
+27;Perempuan;26.1;153;83;Tidak;Rendah;Diabetes
+33;Perempuan;26.5;121;154;Ya;Rendah;Jantung
+24;Perempuan;16.5;168;132;Ya;Rendah;Hipertensi
+34;Laki-laki;25.6;102;141;Tidak;Sedang;Jantung
+40;Laki-laki;27.5;155;72;Ya;Tinggi;Hipertensi
+43;Perempuan;26.4;108;97;Tidak;Tinggi;Tidak Ada
+38;Perempuan;23.7;113;194;Tidak;Tinggi;Diabetes
+39;Perempuan;25.3;177;226;Ya;Tinggi;Jantung
+75;Perempuan;24.7;100;156;Tidak;Rendah;Diabetes
+24;Perempuan;17.2;148;215;Tidak;Tinggi;Jantung
+31;Laki-laki;24.8;175;232;Ya;Tinggi;Diabetes
+32;Laki-laki;22.5;104;146;Tidak;Sedang;Diabetes
+70;Laki-laki;21.2;99;145;Tidak;Sedang;Diabetes
+24;Laki-laki;33.9;130;244;Ya;Sedang;Tidak Ada
+26;Perempuan;29;116;183;Tidak;Rendah;Hipertensi
+68;Laki-laki;19.4;149;202;Tidak;Rendah;Tidak Ada
+65;Perempuan;25.4;162;144;Ya;Rendah;Diabetes
+25;Perempuan;29.8;141;128;Tidak;Sedang;Jantung
+67;Perempuan;18;117;128;Tidak;Tinggi;Diabetes
+76;Laki-laki;24.3;154;116;Ya;Sedang;Hipertensi
+40;Perempuan;24.5;106;164;Tidak;Rendah;Tidak Ada
+46;Laki-laki;18.9;133;210;Tidak;Sedang;Hipertensi
+35;Laki-laki;25.5;99;147;Ya;Tinggi;Jantung
+48;Perempuan;28.5;152;182;Ya;Rendah;Hipertensi
+47;Perempuan;30;171;178;Tidak;Tinggi;Tidak Ada
+69;Perempuan;23;136;175;Tidak;Tinggi;Jantung
+56;Laki-laki;34;127;158;Ya;Rendah;Hipertensi
+52;Perempuan;15.8;159;102;Tidak;Tinggi;Tidak Ada
+35;Laki-laki;25.4;165;166;Tidak;Sedang;Tidak Ada
+76;Perempuan;18.4;142;148;Tidak;Tinggi;Diabetes
+59;Perempuan;24.4;167;85;Ya;Tinggi;Hipertensi
+56;Laki-laki;21.9;133;113;Tidak;Tinggi;Jantung
+34;Laki-laki;26;163;189;Tidak;Sedang;Diabetes
+31;Laki-laki;23.5;143;203;Ya;Tinggi;Hipertensi
+48;Laki-laki;20.7;109;177;Ya;Tinggi;Hipertensi
+41;Laki-laki;21;168;212;Ya;Sedang;Jantung
+52;Laki-laki;31.7;120;73;Tidak;Rendah;Diabetes
+61;Perempuan;25.8;96;125;Tidak;Rendah;Diabetes
+77;Perempuan;17.2;147;133;Ya;Rendah;Jantung
+62;Laki-laki;26.2;99;231;Tidak;Tinggi;Diabetes
+51;Perempuan;23.2;99;164;Tidak;Rendah;Tidak Ada
+20;Laki-laki;24;128;125;Tidak;Sedang;Jantung
+54;Perempuan;27.3;117;101;Tidak;Tinggi;Hipertensi
+60;Perempuan;28.7;119;185;Ya;Tinggi;Jantung
+57;Laki-laki;20.6;126;78;Ya;Tinggi;Tidak Ada
+43;Laki-laki;23.9;156;174;Tidak;Rendah;Jantung
+72;Laki-laki;21.8;132;147;Ya;Rendah;Hipertensi
+40;Perempuan;26.4;168;230;Tidak;Rendah;Hipertensi
+61;Laki-laki;23.1;174;156;Tidak;Tinggi;Jantung
+56;Perempuan;24.1;141;90;Ya;Sedang;Jantung
+32;Laki-laki;22.9;145;124;Ya;Tinggi;Tidak Ada
+73;Perempuan;23.6;165;145;Tidak;Sedang;Tidak Ada
+66;Perempuan;30.8;157;199;Tidak;Tinggi;Hipertensi
+21;Laki-laki;33.6;98;210;Tidak;Sedang;Diabetes
+46;Perempuan;25.5;112;195;Tidak;Tinggi;Diabetes
+39;Perempuan;23.6;152;201;Ya;Tinggi;Diabetes
+42;Laki-laki;17.6;150;153;Ya;Sedang;Diabetes
+30;Perempuan;21;129;247;Tidak;Sedang;Hipertensi
+35;Laki-laki;23.5;133;184;Tidak;Sedang;Diabetes
+50;Laki-laki;21.1;175;117;Ya;Sedang;Diabetes
+33;Laki-laki;21.6;113;192;Tidak;Sedang;Jantung
+62;Laki-laki;30.3;140;147;Ya;Sedang;Diabetes
+59;Perempuan;24.1;147;99;Tidak;Sedang;Jantung
+61;Perempuan;24.5;179;98;Ya;Sedang;Hipertensi
+79;Perempuan;21.3;122;205;Tidak;Tinggi;Jantung
+19;Laki-laki;28.7;105;209;Tidak;Sedang;Tidak Ada
+72;Perempuan;23.1;111;110;Tidak;Sedang;Jantung
+52;Perempuan;21.9;146;95;Ya;Tinggi;Diabetes
+59;Laki-laki;17.7;151;119;Ya;Tinggi;Jantung
+51;Laki-laki;23.8;171;71;Tidak;Rendah;Jantung
+47;Perempuan;21.8;160;124;Tidak;Rendah;Hipertensi
+76;Laki-laki;30.7;179;173;Tidak;Sedang;Hipertensi
+72;Laki-laki;31.4;161;83;Tidak;Sedang;Diabetes
+30;Laki-laki;19.1;159;203;Ya;Rendah;Tidak Ada
+30;Laki-laki;19.5;119;197;Ya;Rendah;Tidak Ada
+35;Perempuan;22.9;112;173;Ya;Sedang;Jantung
+49;Laki-laki;20.7;121;164;Tidak;Rendah;Tidak Ada
+49;Laki-laki;24.9;175;150;Tidak;Sedang;Hipertensi
+52;Laki-laki;22.7;146;130;Ya;Tinggi;Diabetes
+76;Laki-laki;25.1;98;81;Tidak;Tinggi;Diabetes
+56;Laki-laki;28.1;120;82;Ya;Rendah;Hipertensi
+63;Laki-laki;19.7;160;216;Ya;Tinggi;Diabetes
+69;Laki-laki;28;98;241;Ya;Tinggi;Jantung
+46;Laki-laki;21.1;102;158;Ya;Tinggi;Diabetes
+79;Perempuan;32.6;147;164;Tidak;Tinggi;Tidak Ada
+66;Laki-laki;30.5;92;128;Ya;Sedang;Diabetes
+46;Perempuan;23.5;124;106;Tidak;Sedang;Diabetes
+79;Laki-laki;20.1;110;94;Ya;Rendah;Hipertensi
+70;Laki-laki;19.4;153;85;Ya;Tinggi;Hipertensi
+61;Laki-laki;27.5;141;235;Ya;Tinggi;Tidak Ada
+74;Laki-laki;23.9;123;240;Ya;Tinggi;Hipertensi
+33;Perempuan;27.7;124;156;Tidak;Rendah;Tidak Ada
+73;Laki-laki;32.8;104;211;Tidak;Sedang;Jantung
+61;Laki-laki;20.9;95;203;Tidak;Tinggi;Tidak Ada
+64;Perempuan;19.1;174;92;Tidak;Sedang;Diabetes
+74;Perempuan;24.8;121;195;Ya;Rendah;Tidak Ada
+27;Laki-laki;28.6;141;129;Tidak;Sedang;Jantung
+47;Perempuan;20.2;172;209;Tidak;Tinggi;Diabetes
+42;Perempuan;24.1;117;210;Ya;Sedang;Tidak Ada
+56;Perempuan;29.5;174;169;Tidak;Sedang;Hipertensi
+37;Laki-laki;17.5;153;172;Tidak;Rendah;Hipertensi
+22;Laki-laki;24.9;168;203;Tidak;Rendah;Hipertensi
+18;Laki-laki;21.8;167;132;Tidak;Rendah;Tidak Ada
+47;Perempuan;24.5;108;107;Ya;Rendah;Tidak Ada
+66;Laki-laki;26.8;104;197;Ya;Sedang;Jantung
+20;Perempuan;24.9;95;119;Tidak;Sedang;Diabetes
+62;Laki-laki;20;162;249;Ya;Rendah;Diabetes
+31;Laki-laki;22;173;109;Tidak;Rendah;Diabetes
+73;Perempuan;29.7;127;77;Tidak;Tinggi;Diabetes
+47;Laki-laki;25.3;115;77;Tidak;Tinggi;Tidak Ada
+67;Perempuan;27.4;171;173;Ya;Rendah;Tidak Ada
+21;Perempuan;25;140;103;Ya;Sedang;Jantung
+35;Laki-laki;27.2;162;126;Ya;Rendah;Diabetes
+79;Perempuan;22.4;142;243;Ya;Sedang;Tidak Ada
+54;Laki-laki;20.9;145;91;Ya;Sedang;Tidak Ada
+42;Laki-laki;27.1;148;156;Ya;Tinggi;Tidak Ada
+65;Perempuan;28.5;159;109;Tidak;Rendah;Tidak Ada
+18;Laki-laki;20.3;167;242;Ya;Rendah;Diabetes
+70;Perempuan;21.7;147;248;Tidak;Sedang;Diabetes
+63;Laki-laki;23.3;177;155;Tidak;Rendah;Tidak Ada
+32;Laki-laki;30.5;102;202;Ya;Tinggi;Hipertensi
+26;Laki-laki;26.3;132;164;Tidak;Tinggi;Jantung
+32;Laki-laki;18.7;165;82;Tidak;Rendah;Diabetes
+66;Laki-laki;23.6;140;97;Tidak;Rendah;Diabetes
+74;Perempuan;23;108;153;Ya;Tinggi;Hipertensi
+41;Perempuan;19.3;110;131;Ya;Rendah;Diabetes
+21;Perempuan;23.6;172;162;Tidak;Sedang;Hipertensi
+29;Perempuan;22.8;113;156;Ya;Rendah;Hipertensi
+76;Perempuan;22.6;115;93;Tidak;Sedang;Tidak Ada
+75;Perempuan;22.4;134;167;Ya;Rendah;Diabetes
+54;Laki-laki;29.9;117;76;Tidak;Rendah;Jantung
+78;Laki-laki;22.5;171;235;Tidak;Tinggi;Hipertensi
+54;Perempuan;24.2;118;106;Ya;Sedang;Jantung
+60;Perempuan;23.8;106;137;Ya;Tinggi;Tidak Ada
+77;Laki-laki;22;157;239;Ya;Rendah;Diabetes
+23;Laki-laki;24.3;133;155;Ya;Tinggi;Tidak Ada
+56;Laki-laki;24.3;150;202;Ya;Rendah;Tidak Ada
+73;Perempuan;24.3;157;247;Tidak;Rendah;Jantung
+63;Perempuan;20.6;163;156;Tidak;Rendah;Jantung
+41;Perempuan;23.2;114;84;Tidak;Sedang;Hipertensi
+28;Laki-laki;27;156;192;Ya;Sedang;Diabetes
+79;Laki-laki;23.3;91;176;Ya;Sedang;Tidak Ada
+30;Perempuan;24.6;178;222;Tidak;Tinggi;Hipertensi
+51;Perempuan;24.7;138;158;Tidak;Rendah;Hipertensi
+42;Laki-laki;25.7;159;194;Tidak;Tinggi;Tidak Ada
+24;Laki-laki;26.2;115;182;Tidak;Tinggi;Tidak Ada
+69;Laki-laki;23.3;161;206;Ya;Rendah;Hipertensi
+21;Laki-laki;20.4;116;235;Tidak;Tinggi;Tidak Ada
+76;Perempuan;19.1;178;219;Ya;Rendah;Tidak Ada
+25;Laki-laki;28.1;107;176;Tidak;Rendah;Jantung
+37;Laki-laki;27.1;143;156;Ya;Rendah;Diabetes
+46;Laki-laki;26.6;90;246;Ya;Rendah;Hipertensi
+71;Perempuan;27.2;150;137;Ya;Tinggi;Tidak Ada
+70;Perempuan;23.4;92;84;Ya;Tinggi;Hipertensi
+68;Laki-laki;21.5;157;134;Tidak;Tinggi;Diabetes
+62;Laki-laki;20.1;130;123;Tidak;Sedang;Hipertensi
+63;Laki-laki;19.6;126;227;Tidak;Tinggi;Hipertensi
+27;Perempuan;28.8;140;162;Ya;Tinggi;Hipertensi
+60;Perempuan;22;104;89;Tidak;Sedang;Jantung
+51;Perempuan;28.2;97;102;Tidak;Rendah;Diabetes
+74;Laki-laki;23.3;127;169;Tidak;Rendah;Diabetes
+43;Perempuan;21.3;172;146;Ya;Rendah;Hipertensi
+58;Laki-laki;19.6;145;204;Ya;Sedang;Hipertensi
+66;Laki-laki;21.6;136;205;Ya;Tinggi;Diabetes
+75;Laki-laki;29.7;179;225;Tidak;Tinggi;Tidak Ada
+20;Perempuan;19.7;99;242;Tidak;Tinggi;Jantung
+73;Laki-laki;32.5;167;176;Tidak;Tinggi;Diabetes
+23;Perempuan;20.6;138;189;Ya;Sedang;Hipertensi
+22;Perempuan;27;130;143;Tidak;Tinggi;Tidak Ada
+22;Laki-laki;23.4;172;80;Ya;Rendah;Tidak Ada
+71;Laki-laki;22.7;119;100;Ya;Sedang;Tidak Ada
+64;Perempuan;18.9;94;81;Ya;Sedang;Jantung
+40;Laki-laki;23.6;160;193;Ya;Rendah;Jantung
+66;Perempuan;19.4;172;147;Tidak;Rendah;Diabetes
+26;Laki-laki;17.3;120;248;Tidak;Tinggi;Diabetes
+52;Perempuan;24.5;141;241;Ya;Rendah;Diabetes
+37;Perempuan;21.5;177;165;Tidak;Sedang;Diabetes
+75;Perempuan;30.7;112;119;Ya;Sedang;Hipertensi
+66;Perempuan;28;137;186;Tidak;Sedang;Jantung
+78;Laki-laki;30.8;129;86;Tidak;Tinggi;Tidak Ada
+76;Laki-laki;21.3;95;232;Ya;Tinggi;Hipertensi
+59;Perempuan;24.5;127;198;Ya;Rendah;Diabetes
+52;Perempuan;13.5;130;226;Ya;Tinggi;Diabetes
+67;Laki-laki;22.9;116;248;Ya;Tinggi;Hipertensi
+35;Laki-laki;24.4;164;133;Tidak;Sedang;Tidak Ada
+79;Laki-laki;24.6;158;201;Ya;Sedang;Jantung
+34;Laki-laki;23.8;146;156;Tidak;Rendah;Jantung
+41;Laki-laki;24.3;106;225;Ya;Sedang;Tidak Ada
+20;Laki-laki;13.1;160;85;Tidak;Tinggi;Jantung
+49;Perempuan;25;136;132;Ya;Rendah;Diabetes
+52;Laki-laki;25.9;168;145;Tidak;Rendah;Diabetes
+55;Laki-laki;29.4;102;154;Tidak;Sedang;Diabetes
+30;Perempuan;25.5;100;178;Tidak;Sedang;Diabetes
+73;Laki-laki;23.5;179;86;Ya;Sedang;Tidak Ada
+78;Laki-laki;28.4;175;237;Ya;Rendah;Jantung
+64;Laki-laki;14.6;113;210;Ya;Sedang;Jantung
+42;Laki-laki;21.9;162;249;Ya;Tinggi;Hipertensi
+26;Laki-laki;20.9;93;127;Tidak;Rendah;Tidak Ada
+21;Perempuan;23.9;135;234;Tidak;Sedang;Jantung
+31;Laki-laki;15.2;107;148;Tidak;Tinggi;Jantung
+54;Perempuan;29.3;132;130;Ya;Tinggi;Hipertensi
+51;Perempuan;23;169;182;Tidak;Sedang;Diabetes
+28;Laki-laki;25.3;122;190;Tidak;Tinggi;Jantung
+58;Perempuan;24.9;99;103;Ya;Rendah;Diabetes
+73;Laki-laki;29;162;139;Ya;Rendah;Hipertensi
+20;Perempuan;16.6;148;86;Tidak;Tinggi;Jantung
+76;Perempuan;24.4;120;89;Ya;Rendah;Diabetes
+45;Laki-laki;28.6;117;128;Ya;Sedang;Tidak Ada
+46;Laki-laki;23.6;149;138;Ya;Tinggi;Diabetes
+26;Laki-laki;20.2;92;230;Ya;Rendah;Diabetes
+20;Laki-laki;21.6;144;171;Tidak;Sedang;Diabetes
+42;Laki-laki;22.4;103;189;Tidak;Sedang;Diabetes
+51;Perempuan;21.1;147;214;Tidak;Rendah;Tidak Ada
+29;Perempuan;23.4;178;126;Tidak;Tinggi;Hipertensi
+59;Perempuan;30;104;152;Tidak;Sedang;Diabetes
+26;Perempuan;21.6;91;198;Ya;Sedang;Diabetes
+32;Perempuan;22;113;82;Tidak;Sedang;Jantung
+57;Perempuan;25.8;167;224;Tidak;Sedang;Jantung
+42;Perempuan;23.3;153;75;Ya;Tinggi;Tidak Ada
+22;Laki-laki;18.7;160;166;Ya;Rendah;Tidak Ada
+28;Laki-laki;23.8;113;163;Ya;Rendah;Tidak Ada
+76;Perempuan;23.6;116;179;Tidak;Rendah;Jantung
+51;Perempuan;27.9;126;220;Ya;Sedang;Diabetes
+41;Laki-laki;20.1;128;207;Ya;Tinggi;Jantung
+77;Laki-laki;27.9;152;120;Ya;Rendah;Hipertensi
+32;Laki-laki;23.6;168;216;Tidak;Tinggi;Tidak Ada
+55;Laki-laki;19.6;115;120;Ya;Rendah;Tidak Ada
+25;Perempuan;18.8;154;156;Ya;Sedang;Tidak Ada
+76;Laki-laki;31.7;93;137;Tidak;Rendah;Hipertensi
+22;Perempuan;23.4;118;153;Ya;Sedang;Diabetes
+65;Perempuan;27.7;90;111;Tidak;Sedang;Diabetes
+43;Perempuan;17.2;139;126;Tidak;Rendah;Diabetes
+35;Laki-laki;34.6;175;235;Ya;Tinggi;Tidak Ada
+23;Laki-laki;27.6;100;131;Tidak;Sedang;Diabetes
+54;Perempuan;23;163;76;Ya;Tinggi;Jantung
+77;Perempuan;22.8;148;181;Ya;Rendah;Tidak Ada
+65;Perempuan;26.9;151;247;Ya;Sedang;Hipertensi
+30;Laki-laki;26.7;170;249;Ya;Tinggi;Hipertensi
+45;Perempuan;24.7;125;95;Tidak;Sedang;Diabetes
+22;Laki-laki;24;145;223;Ya;Rendah;Tidak Ada
+30;Perempuan;26.2;179;88;Ya;Sedang;Jantung
+34;Perempuan;17;110;78;Ya;Rendah;Jantung
+67;Perempuan;22.5;102;130;Tidak;Tinggi;Tidak Ada
+57;Laki-laki;17.4;98;89;Tidak;Sedang;Diabetes
+62;Laki-laki;26.4;100;175;Ya;Tinggi;Hipertensi
+49;Perempuan;21.3;164;119;Tidak;Rendah;Hipertensi
+79;Laki-laki;17.7;159;150;Tidak;Rendah;Jantung
+46;Perempuan;20.8;90;219;Ya;Tinggi;Jantung
+68;Laki-laki;24.6;159;210;Ya;Tinggi;Jantung
+75;Laki-laki;23.2;166;209;Ya;Rendah;Hipertensi
+20;Laki-laki;19.3;175;79;Ya;Tinggi;Jantung
+73;Perempuan;17.2;145;134;Ya;Rendah;Hipertensi
+57;Laki-laki;24.3;120;227;Tidak;Tinggi;Hipertensi
+51;Laki-laki;21.7;175;77;Ya;Rendah;Diabetes
+57;Perempuan;23;126;218;Ya;Rendah;Diabetes
+44;Perempuan;23.4;136;91;Ya;Sedang;Diabetes
+30;Perempuan;25.7;167;87;Ya;Rendah;Jantung
+62;Perempuan;27.4;136;245;Ya;Rendah;Hipertensi
+50;Laki-laki;24.6;158;241;Tidak;Sedang;Jantung
+23;Laki-laki;22.7;147;78;Ya;Sedang;Hipertensi
+41;Laki-laki;24.1;125;123;Tidak;Tinggi;Diabetes
+36;Laki-laki;22.6;121;95;Ya;Tinggi;Diabetes
+33;Laki-laki;17.4;153;163;Ya;Rendah;Jantung
+57;Perempuan;28.4;160;169;Ya;Tinggi;Hipertensi
+45;Laki-laki;27.6;131;95;Tidak;Tinggi;Jantung
+50;Laki-laki;32;137;103;Ya;Rendah;Tidak Ada
+76;Laki-laki;33.1;163;77;Ya;Sedang;Jantung
+76;Perempuan;19.3;170;207;Ya;Sedang;Diabetes
+65;Perempuan;22.7;119;117;Ya;Rendah;Hipertensi
+58;Laki-laki;34;110;176;Ya;Rendah;Hipertensi
+30;Perempuan;23.8;149;123;Ya;Rendah;Jantung
+60;Perempuan;25;102;237;Ya;Rendah;Diabetes
+62;Perempuan;17.9;90;188;Tidak;Rendah;Tidak Ada
+42;Perempuan;24.6;154;212;Ya;Rendah;Jantung
+70;Perempuan;31.7;122;150;Ya;Tinggi;Hipertensi
+59;Perempuan;29.1;127;215;Ya;Tinggi;Diabetes
+53;Perempuan;21.6;114;165;Tidak;Tinggi;Hipertensi
+44;Laki-laki;22.4;115;171;Tidak;Sedang;Hipertensi
+55;Laki-laki;19.5;166;220;Ya;Rendah;Hipertensi
+77;Perempuan;20.6;148;131;Tidak;Rendah;Hipertensi
+24;Laki-laki;16.4;122;115;Ya;Tinggi;Tidak Ada
+22;Laki-laki;23.7;130;156;Ya;Sedang;Diabetes
+60;Perempuan;30;119;168;Tidak;Tinggi;Jantung
+62;Laki-laki;25.4;146;108;Ya;Rendah;Diabetes
+75;Perempuan;29.5;138;212;Tidak;Rendah;Diabetes
+74;Perempuan;28.3;137;122;Tidak;Tinggi;Diabetes
+68;Perempuan;21.8;161;149;Tidak;Tinggi;Jantung
+48;Laki-laki;21;138;85;Ya;Rendah;Diabetes
+40;Laki-laki;21.1;136;173;Ya;Tinggi;Jantung
+59;Laki-laki;17.1;145;139;Ya;Rendah;Jantung
+27;Laki-laki;24.1;154;210;Ya;Tinggi;Tidak Ada
+49;Perempuan;12.4;101;177;Ya;Sedang;Hipertensi
+60;Perempuan;26.4;158;116;Ya;Rendah;Jantung
+70;Laki-laki;24.3;177;78;Ya;Sedang;Hipertensi
+47;Perempuan;25.9;95;103;Tidak;Tinggi;Diabetes
+56;Perempuan;28.2;178;226;Ya;Sedang;Hipertensi
+48;Laki-laki;24.8;154;234;Ya;Tinggi;Hipertensi
+35;Perempuan;30.5;114;240;Ya;Sedang;Hipertensi
+53;Laki-laki;26.5;90;155;Tidak;Sedang;Diabetes
+19;Perempuan;21;121;184;Tidak;Sedang;Diabetes
+31;Laki-laki;23;92;133;Tidak;Rendah;Jantung
+30;Perempuan;15;138;221;Ya;Sedang;Jantung
+46;Perempuan;20.4;108;103;Tidak;Tinggi;Tidak Ada
+29;Laki-laki;22.5;149;245;Tidak;Tinggi;Diabetes
+56;Laki-laki;26.2;118;81;Ya;Rendah;Tidak Ada
+19;Laki-laki;21;139;220;Ya;Rendah;Diabetes
+49;Laki-laki;19;91;166;Ya;Tinggi;Hipertensi
+30;Perempuan;16.4;162;190;Tidak;Sedang;Tidak Ada
+63;Perempuan;21.6;145;210;Ya;Tinggi;Tidak Ada
+44;Laki-laki;31.8;106;156;Ya;Rendah;Tidak Ada
+66;Perempuan;25.1;149;171;Ya;Rendah;Diabetes
+58;Laki-laki;27.8;125;165;Ya;Tinggi;Jantung
+34;Laki-laki;20.4;150;242;Ya;Sedang;Tidak Ada
+57;Perempuan;17.7;106;183;Ya;Sedang;Jantung
+48;Perempuan;19.1;138;116;Tidak;Rendah;Diabetes
+51;Laki-laki;23.6;165;127;Ya;Tinggi;Tidak Ada
+77;Laki-laki;16;149;202;Tidak;Tinggi;Diabetes
+41;Laki-laki;20;109;190;Tidak;Rendah;Jantung
+62;Perempuan;21.7;139;187;Ya;Tinggi;Jantung
+52;Perempuan;18.7;92;74;Tidak;Rendah;Tidak Ada
+65;Perempuan;15.5;132;165;Tidak;Sedang;Jantung
+23;Perempuan;25.2;146;90;Tidak;Sedang;Hipertensi
+36;Laki-laki;24.2;139;221;Ya;Tinggi;Hipertensi
+47;Laki-laki;27.1;157;197;Tidak;Sedang;Tidak Ada
+24;Laki-laki;19.6;170;193;Tidak;Sedang;Diabetes
+27;Laki-laki;27;139;215;Tidak;Rendah;Diabetes
+58;Laki-laki;30.1;126;90;Tidak;Rendah;Diabetes
+49;Laki-laki;25;135;123;Ya;Tinggi;Hipertensi
+51;Perempuan;21.6;131;207;Ya;Rendah;Jantung
+45;Perempuan;24.6;104;221;Tidak;Tinggi;Hipertensi
+77;Laki-laki;21.4;122;173;Ya;Tinggi;Jantung
+32;Laki-laki;20.7;169;180;Ya;Rendah;Hipertensi
+47;Perempuan;26.7;100;185;Tidak;Sedang;Diabetes
+54;Perempuan;23.4;109;126;Ya;Sedang;Diabetes
+46;Perempuan;28.8;113;197;Ya;Sedang;Diabetes
+39;Perempuan;22.2;153;220;Tidak;Sedang;Tidak Ada
+21;Laki-laki;22.6;169;219;Tidak;Tinggi;Tidak Ada
+37;Laki-laki;21.7;154;231;Ya;Sedang;Jantung
+49;Laki-laki;19.5;177;189;Ya;Tinggi;Tidak Ada
+53;Laki-laki;27.3;177;139;Ya;Rendah;Hipertensi
+67;Laki-laki;32.7;162;225;Ya;Rendah;Hipertensi
+21;Perempuan;22.5;175;164;Tidak;Tinggi;Jantung
+44;Laki-laki;21.3;165;168;Tidak;Sedang;Jantung
+34;Perempuan;21;106;236;Tidak;Tinggi;Diabetes
+29;Laki-laki;21.3;178;111;Tidak;Sedang;Tidak Ada
+39;Laki-laki;30.6;150;220;Tidak;Sedang;Diabetes
+34;Laki-laki;21.1;104;139;Ya;Tinggi;Tidak Ada
+27;Laki-laki;21.7;140;71;Ya;Tinggi;Tidak Ada
+71;Laki-laki;19;116;221;Tidak;Sedang;Jantung
+18;Perempuan;25.2;175;214;Tidak;Tinggi;Diabetes
+39;Perempuan;23.7;163;178;Tidak;Sedang;Diabetes
+43;Perempuan;19.5;150;134;Ya;Tinggi;Tidak Ada
+73;Laki-laki;20.4;147;139;Ya;Rendah;Tidak Ada
+76;Laki-laki;30.1;120;138;Ya;Sedang;Jantung
+35;Perempuan;24.1;101;190;Tidak;Rendah;Hipertensi
+67;Laki-laki;24.4;135;178;Tidak;Tinggi;Diabetes
+31;Laki-laki;24.4;120;129;Tidak;Rendah;Diabetes
+64;Perempuan;29.6;121;247;Tidak;Tinggi;Jantung
+46;Laki-laki;19.8;121;162;Tidak;Sedang;Jantung
+29;Perempuan;22.4;142;81;Ya;Tinggi;Diabetes
+53;Laki-laki;23.3;150;172;Tidak;Tinggi;Diabetes
+76;Perempuan;17.1;135;244;Ya;Sedang;Tidak Ada
+52;Laki-laki;20.3;174;181;Ya;Tinggi;Hipertensi
+69;Laki-laki;28.2;163;134;Ya;Sedang;Diabetes
+78;Perempuan;27;169;224;Ya;Tinggi;Jantung
+29;Laki-laki;27.7;96;117;Ya;Sedang;Tidak Ada
+24;Laki-laki;21.6;93;157;Tidak;Rendah;Tidak Ada
+46;Perempuan;22.1;141;131;Tidak;Tinggi;Jantung
+28;Laki-laki;16.8;178;113;Tidak;Tinggi;Jantung
+50;Perempuan;27.7;120;216;Ya;Tinggi;Tidak Ada
+23;Laki-laki;28.4;164;205;Ya;Sedang;Jantung
+64;Laki-laki;28.3;173;124;Ya;Tinggi;Tidak Ada
+32;Laki-laki;30.4;125;177;Ya;Sedang;Jantung
+49;Laki-laki;25.7;143;116;Ya;Tinggi;Tidak Ada
+68;Perempuan;30.2;143;71;Ya;Rendah;Diabetes
+28;Laki-laki;23.2;106;182;Tidak;Tinggi;Diabetes
+75;Perempuan;16.9;164;236;Ya;Rendah;Jantung
+40;Laki-laki;27.4;119;242;Ya;Sedang;Hipertensi
+43;Laki-laki;16.8;111;229;Tidak;Rendah;Diabetes
+51;Laki-laki;24.7;132;235;Ya;Tinggi;Tidak Ada
+63;Laki-laki;27.8;116;80;Tidak;Tinggi;Hipertensi
+51;Perempuan;25.3;126;207;Tidak;Sedang;Tidak Ada
+46;Perempuan;33.1;135;181;Tidak;Tinggi;Tidak Ada
+21;Perempuan;16.1;124;159;Ya;Tinggi;Diabetes
+34;Perempuan;23.7;93;124;Tidak;Sedang;Jantung
+52;Laki-laki;24.1;169;217;Tidak;Sedang;Jantung
+30;Perempuan;18.6;169;86;Ya;Rendah;Tidak Ada
+58;Perempuan;19.4;174;137;Tidak;Sedang;Diabetes
+56;Laki-laki;20.6;115;202;Ya;Tinggi;Tidak Ada
+32;Laki-laki;19.6;108;220;Ya;Sedang;Hipertensi
+72;Laki-laki;23.6;170;243;Tidak;Tinggi;Tidak Ada
+46;Laki-laki;21.6;134;121;Ya;Rendah;Diabetes
+46;Perempuan;25.3;115;207;Ya;Sedang;Tidak Ada
+28;Perempuan;26.6;111;243;Tidak;Tinggi;Diabetes
+69;Laki-laki;26.3;147;225;Tidak;Sedang;Jantung
+49;Laki-laki;22.4;152;166;Tidak;Sedang;Diabetes
+19;Laki-laki;25.1;117;240;Tidak;Sedang;Hipertensi
+64;Perempuan;28.1;154;223;Ya;Sedang;Diabetes
+31;Perempuan;25.8;133;117;Tidak;Rendah;Hipertensi
+37;Laki-laki;31.4;132;98;Tidak;Tinggi;Hipertensi
+39;Laki-laki;27.9;126;96;Tidak;Sedang;Tidak Ada
+28;Perempuan;30.9;155;215;Ya;Tinggi;Hipertensi
+44;Laki-laki;14;106;173;Ya;Rendah;Diabetes
+20;Laki-laki;24.4;129;129;Ya;Tinggi;Jantung
+34;Perempuan;22.7;127;175;Ya;Tinggi;Diabetes
+79;Laki-laki;23.5;174;138;Ya;Rendah;Jantung
+61;Perempuan;20.8;150;183;Tidak;Sedang;Hipertensi
+73;Laki-laki;25.6;98;90;Ya;Tinggi;Tidak Ada
+45;Laki-laki;16.8;166;221;Ya;Tinggi;Hipertensi
+46;Perempuan;25.6;164;171;Ya;Sedang;Hipertensi
+38;Perempuan;20.9;150;200;Tidak;Sedang;Jantung
+64;Laki-laki;22;169;164;Tidak;Tinggi;Diabetes
+33;Perempuan;25.8;105;174;Ya;Rendah;Tidak Ada
+54;Laki-laki;24.3;91;194;Tidak;Sedang;Tidak Ada
+76;Laki-laki;28.2;161;71;Ya;Sedang;Tidak Ada
+37;Perempuan;20.1;132;135;Tidak;Rendah;Tidak Ada
+23;Laki-laki;23.7;131;182;Tidak;Tinggi;Diabetes
+36;Laki-laki;27.6;166;239;Ya;Sedang;Tidak Ada
+74;Perempuan;25.4;146;231;Tidak;Tinggi;Jantung
+22;Perempuan;25.7;170;111;Ya;Tinggi;Jantung
+20;Laki-laki;28.4;177;89;Ya;Tinggi;Tidak Ada
+76;Perempuan;22.4;156;166;Ya;Rendah;Tidak Ada
+18;Perempuan;21.5;119;137;Tidak;Tinggi;Diabetes
+75;Perempuan;26.3;102;242;Tidak;Tinggi;Diabetes
+77;Perempuan;23.4;108;144;Ya;Sedang;Tidak Ada
+55;Laki-laki;28.5;96;194;Ya;Sedang;Diabetes
+32;Laki-laki;25.5;98;239;Tidak;Rendah;Hipertensi
+51;Laki-laki;21.5;172;116;Ya;Rendah;Tidak Ada
+78;Perempuan;25.4;143;74;Tidak;Sedang;Diabetes
+52;Perempuan;20.4;175;118;Tidak;Sedang;Jantung
+66;Perempuan;27.8;171;193;Tidak;Rendah;Tidak Ada
+42;Perempuan;18.4;150;106;Ya;Tinggi;Tidak Ada
+41;Perempuan;28.9;176;231;Ya;Rendah;Jantung
+29;Perempuan;25.3;91;215;Tidak;Tinggi;Jantung
+35;Perempuan;23.3;139;88;Ya;Sedang;Diabetes
+32;Laki-laki;27.1;164;109;Ya;Sedang;Jantung
+61;Laki-laki;26;120;86;Tidak;Sedang;Hipertensi
+33;Perempuan;29.3;122;168;Tidak;Tinggi;Tidak Ada
+44;Perempuan;29.3;167;162;Ya;Rendah;Hipertensi
+25;Perempuan;25.4;169;111;Tidak;Tinggi;Diabetes
+77;Laki-laki;20.5;100;192;Ya;Rendah;Jantung
+63;Laki-laki;21.8;122;176;Tidak;Rendah;Tidak Ada
+42;Perempuan;23.7;96;141;Tidak;Rendah;Jantung
+34;Perempuan;28.3;120;134;Ya;Sedang;Jantung
+46;Laki-laki;22.2;137;178;Ya;Rendah;Diabetes
+70;Laki-laki;22.5;136;122;Ya;Sedang;Diabetes
+25;Laki-laki;31.4;167;204;Ya;Rendah;Diabetes
+32;Laki-laki;23.6;142;202;Ya;Rendah;Diabetes
+44;Perempuan;21.5;169;93;Tidak;Sedang;Tidak Ada
+63;Laki-laki;27.1;108;97;Tidak;Sedang;Hipertensi
+67;Laki-laki;23.8;170;131;Ya;Tinggi;Hipertensi
+69;Perempuan;18.4;179;86;Tidak;Rendah;Tidak Ada
+24;Laki-laki;28.2;95;89;Ya;Sedang;Jantung
+20;Laki-laki;21;138;72;Tidak;Tinggi;Tidak Ada
+46;Laki-laki;24.2;162;234;Tidak;Tinggi;Hipertensi
+61;Perempuan;23.7;139;212;Ya;Sedang;Hipertensi
+70;Laki-laki;24.9;170;120;Ya;Rendah;Tidak Ada
+41;Perempuan;15.2;101;245;Ya;Tinggi;Diabetes
+77;Perempuan;22.7;112;205;Tidak;Rendah;Jantung
+75;Laki-laki;28.5;143;210;Ya;Rendah;Tidak Ada
+20;Laki-laki;29.1;158;245;Ya;Tinggi;Hipertensi
+37;Laki-laki;20;148;72;Ya;Sedang;Diabetes
+63;Laki-laki;27.7;125;142;Ya;Rendah;Jantung
+32;Perempuan;21;92;228;Ya;Sedang;Hipertensi
+42;Laki-laki;22.5;147;174;Ya;Tinggi;Jantung
+47;Laki-laki;22.7;177;187;Tidak;Rendah;Diabetes
+31;Laki-laki;24.4;144;223;Tidak;Sedang;Hipertensi
+24;Perempuan;28;146;103;Tidak;Sedang;Diabetes
+34;Laki-laki;25.1;106;206;Tidak;Rendah;Tidak Ada
+79;Laki-laki;23.5;128;131;Ya;Sedang;Tidak Ada
+61;Perempuan;27.9;179;189;Ya;Sedang;Jantung
+37;Perempuan;20.8;157;184;Tidak;Tinggi;Diabetes
+53;Laki-laki;23.7;144;82;Tidak;Tinggi;Diabetes
+26;Laki-laki;28;134;138;Tidak;Sedang;Jantung
+55;Laki-laki;26.1;165;238;Ya;Sedang;Jantung
+65;Laki-laki;22.1;90;146;Ya;Rendah;Jantung
+74;Laki-laki;17.9;110;70;Ya;Tinggi;Tidak Ada
+77;Perempuan;25.2;172;158;Tidak;Rendah;Jantung
+39;Perempuan;17.7;110;116;Tidak;Sedang;Tidak Ada
+71;Laki-laki;23.1;141;73;Tidak;Rendah;Jantung
+70;Laki-laki;28.7;171;249;Tidak;Sedang;Diabetes
+70;Perempuan;26.4;132;79;Tidak;Tinggi;Diabetes
+19;Laki-laki;15.9;141;97;Ya;Tinggi;Jantung
+41;Laki-laki;24.8;156;190;Ya;Sedang;Jantung
+25;Laki-laki;22.7;133;195;Ya;Tinggi;Tidak Ada
+28;Laki-laki;18.9;121;203;Ya;Sedang;Hipertensi
+30;Laki-laki;25.3;99;224;Ya;Rendah;Tidak Ada
+34;Perempuan;22;153;209;Tidak;Sedang;Diabetes
+25;Laki-laki;22.1;168;131;Ya;Rendah;Jantung
+38;Laki-laki;24.5;158;249;Tidak;Sedang;Diabetes
+35;Laki-laki;21.5;157;245;Ya;Tinggi;Hipertensi
+47;Perempuan;24.4;117;136;Tidak;Sedang;Tidak Ada
+35;Perempuan;21.6;142;243;Tidak;Sedang;Diabetes
+63;Perempuan;21.8;140;143;Tidak;Sedang;Tidak Ada
+64;Perempuan;28;142;164;Tidak;Tinggi;Jantung
+48;Laki-laki;28.4;93;212;Tidak;Sedang;Diabetes
+55;Perempuan;17.2;168;105;Tidak;Tinggi;Hipertensi
+49;Laki-laki;27;106;211;Ya;Sedang;Tidak Ada
+28;Laki-laki;29.6;156;181;Tidak;Rendah;Tidak Ada
+62;Perempuan;30.2;163;200;Tidak;Sedang;Hipertensi
+42;Perempuan;26.1;136;182;Ya;Rendah;Diabetes
+50;Perempuan;19.8;145;179;Tidak;Tinggi;Diabetes
+77;Perempuan;26.5;112;183;Ya;Tinggi;Tidak Ada
+55;Perempuan;20.5;107;136;Ya;Sedang;Hipertensi
+58;Laki-laki;22.6;90;195;Tidak;Tinggi;Tidak Ada
+25;Perempuan;25.5;124;155;Tidak;Sedang;Tidak Ada
+28;Perempuan;20.8;153;88;Ya;Tinggi;Jantung
+39;Perempuan;19.4;147;138;Tidak;Rendah;Diabetes
+68;Laki-laki;25.9;148;79;Ya;Tinggi;Diabetes
+41;Perempuan;31.5;90;230;Tidak;Rendah;Jantung
+58;Laki-laki;29;92;210;Ya;Sedang;Diabetes
+34;Perempuan;26.8;156;197;Tidak;Sedang;Diabetes
+29;Perempuan;27.9;126;168;Tidak;Sedang;Diabetes
+74;Laki-laki;26.6;172;248;Ya;Rendah;Hipertensi
+63;Perempuan;25.8;118;101;Ya;Sedang;Jantung
+49;Laki-laki;27.6;178;181;Ya;Sedang;Tidak Ada
+32;Laki-laki;18.5;122;93;Ya;Rendah;Hipertensi
+33;Laki-laki;24.8;150;104;Tidak;Tinggi;Tidak Ada
+71;Perempuan;23.7;179;152;Ya;Sedang;Jantung
+39;Perempuan;24.3;93;139;Ya;Tinggi;Jantung
+45;Perempuan;22.2;103;237;Tidak;Tinggi;Jantung
+37;Laki-laki;26.1;122;178;Tidak;Sedang;Diabetes
+50;Perempuan;20.7;111;241;Ya;Sedang;Hipertensi
+27;Laki-laki;21.9;137;168;Tidak;Rendah;Jantung
+57;Perempuan;21.4;92;102;Ya;Rendah;Tidak Ada
+49;Laki-laki;27.5;176;125;Tidak;Sedang;Diabetes
+67;Laki-laki;24;174;233;Ya;Tinggi;Diabetes
+77;Laki-laki;22.2;112;216;Tidak;Rendah;Hipertensi
+50;Perempuan;22.5;157;240;Ya;Rendah;Hipertensi
+19;Laki-laki;24;110;81;Ya;Sedang;Hipertensi
+50;Laki-laki;30.5;132;80;Tidak;Sedang;Diabetes
+50;Laki-laki;19.1;174;139;Tidak;Sedang;Jantung
+58;Laki-laki;26.7;115;209;Ya;Sedang;Tidak Ada
+30;Laki-laki;25.9;130;110;Ya;Rendah;Jantung
+47;Laki-laki;20.5;127;222;Tidak;Rendah;Tidak Ada
+50;Perempuan;29.9;177;175;Tidak;Rendah;Jantung
+30;Perempuan;26.2;100;72;Tidak;Tinggi;Hipertensi
+69;Laki-laki;22;118;72;Tidak;Rendah;Tidak Ada
+43;Perempuan;16.6;149;153;Tidak;Rendah;Diabetes
+39;Perempuan;24.9;156;225;Tidak;Sedang;Tidak Ada
+56;Laki-laki;23.8;154;220;Tidak;Rendah;Diabetes
